@@ -1,7 +1,10 @@
 # Experiments
 •Develop and execute the following programs using 8086 Assembly Language. Any suitable assembler like MASM/TASM/8086 kit or any equivalent software may be used.
+
 •Program should have suitable comments.
+
 •The board layout and the circuit diagram of the interface are to be provided to the student during the examination.
+
 •Software Required: Open source ARM Development platform, KEIL IDE and Proteus for simulation
 
 
