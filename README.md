@@ -2,6 +2,6 @@
     <a href="https://github.com/AbhishekMali21">
         <img height=105 src="https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/VTU.jpg">
     </a>
-    <h1> VTU CSE/ISE LAB SOLUTIONS </h1>
+    <br><h1> VTU CSE/ISE LAB SOLUTIONS </h1>
     <br>ONE STOP FOR ALL THE LAB SOLUTIONS OF VTU (SCHEMES INCLUDE +2015 +2017 +2018) 
 </p>
