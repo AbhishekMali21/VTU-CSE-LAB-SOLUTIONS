@@ -90,7 +90,7 @@ Write SQL queries to
 If FinalIA = 17 to 20 then CAT = ‘Outstanding’
 If FinalIA = 12 to 16 then CAT = ‘Average’
 If FinalIA< 12 then CAT = ‘Weak’
-Give these details only for 8th semester A, B, and C section students.
+Give these details only for 8th semester A,B, and C section students.
 
 
 5 - Consider the schema for Company Database:
