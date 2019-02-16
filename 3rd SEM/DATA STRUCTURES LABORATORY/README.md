@@ -62,7 +62,7 @@ a. Represent and Evaluate a Polynomial P(x,y,z) = 6x2y2z-4yz5+3x3yz+2xy5z-2xyz3
 b. Find the sum of two polynomials POLY1(x,y,z) and POLY2(x,y,z) and store the result in POLYSUM(x,y,z)
 Support the program with appropriate functions for each of the above operations
 
-10. Design, Develop and Implement a menu driven Program in C for the following operations on Binary Search Tree (BST) of Integers
+10. Design, Develop and Implement a menu driven Program in C for the following operations on Binary Search Tree(BST) of Integers
 a. Create a BST of N Integers: 6, 9, 5, 2, 8, 15, 24, 14, 7, 8, 5, 2
 b. Traverse the BST in Inorder, Preorder and Post Order
 c. Search the BST for a given element (KEY) and report the appropriate message
