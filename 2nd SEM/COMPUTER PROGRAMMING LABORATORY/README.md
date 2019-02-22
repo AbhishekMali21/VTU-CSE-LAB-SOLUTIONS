@@ -2,7 +2,8 @@
 
 1. Familiarization with computer hardware and programming environment, concept of naming
 the program files, storing, compilation, execution and debugging. Taking any simple C- code.
-PART A
+
+## PART A
 2. Develop a program to solve simple computational problems using arithmetic expressions and
 use of each operator leading to simulation of a commercial calculator. (No built-in math
 function)
@@ -18,7 +19,9 @@ to read the name of the user, number of units consumed and print out the charges
 6. Introduce 1D Array manipulation and implement Binary search.
 7. Implement using functions to check whether the given number is prime and display
 appropriate messages. (No built-in math function)
-PART B
+
+
+## PART B
 8. Develop a program to introduce 2D Array manipulation and implement Matrix multiplication
 and ensure the rules of multiplication are checked.
 9. Develop a Program to compute Sin(x) using Taylor series approximation .Compare your
