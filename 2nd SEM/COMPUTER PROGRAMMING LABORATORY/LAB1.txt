@@ -1,0 +1,58 @@
+1.	Familiarization with computer hardware and programming environment, concept of naming the program files, storing, compilation, execution and debugging, taking any simple C- code. [Not included in the Lab Exam ]
+
+Generally, the programs created using programming languages like C, C++, Java etc., are written
+using high level language like English. But, computer cannot understand the high level language. It can understand only low level language. So, the program written in high level language needs to be converted into low level language to make it understandable for the computer. This conversion is performed using either Interpreter or Compiler. Popular programming languages like C, C++, Java etc., use compiler to convert high level language instructions into low level language instructions. Compiler is a program that converts high level language instructions into low level language instructions. Generally, compiler performs two things, first it verifies the program errors, if errors are found, it returns list of errors otherwise it converts the complete code into low level language. To create and execute C programs in Windows Operating System, we need to install Turbo C software. We use the following steps to create and execute C programs in Windows OS…
+
+
+Step 1: Creating Source Code
+Source code is a file with C programming instructions in high level language. To create source
+code, we use any text editor to write the program instructions. The instructions written in the
+source code must follow the C programming language rules. The following steps are used to create
+source code file in Windows OS…
+1.	Click on Start button
+2.	Select Run
+3.	Type cmd and press Enter
+4.	Type cd c:\TC\bin in the command prompt and press Enter
+5.	Type TC press Enter
+6.	Click on File -> New in C Editor window
+7.	Type the program
+8.	Save it as FileName.c (Use shortcut key F2 to save)
+
+
+Step 2: Compile Source Code (Alt + F9)
+Compilation is the process of converting high level language instructions into low level language
+instructions. We use the shortcut key Alt + F9 to compile a C program in Turbo C.
+Compilation is the process of converting high level language instructions into low level language
+Instructions Whenever we press Alt + F9, the source file is going to be submitted to the Compiler. On receiving a source file, the compiler first checks for the Errors. If there are any Errors then compiler returns List of Errors, if there are no errors then the source code is  onverted into object code and stores it as file with .obj extension. Then the object code is given to the Linker. The Linker combines both the object code and specified header file code and generates an Executable file with .exe extension.
+
+
+Step 3: Executing / Running Executable File (Ctrl + F9)
+After completing compilation successfully, an executable file is created with .exe extension. The
+processor can understand this .exe file content so that it can perform the task specified in the
+source file. We use a shortcut key Ctrl + F9 to run a C program. Whenever we press Ctrl + F9, the .exe file is submitted to the CPU. On receiving .exe file, CPU performs the task according to the instruction written in the file. The result generated from the execution is placed in a window called User Screen.
+
+
+Step 4: Check Result (Alt + F5)
+After running the program, the result is placed into User Screen. Just we need to open the User
+Screen to check the result of the program execution. We use the shortcut key Alt + F5 to open the User Screen and check the result. The file which contains c program instructions in high level language is said to be source code. Every c program source file is saved with .c extension, for example Sample.c. Whenever we press Alt + F9 the source file is submitted to the compiler. Compiler checks for the errors, if there are any errors, it returns list of errors, otherwise generates object code in a file  file into object file and generates executable file as Sample.exe. With this compilation process completes. 
+
+
+Now, we need to Run the executable file (Sample.exe). To run a program we press Ctrl + F9. When we press Ctrl + F9 the executable file is submitted to the CPU. Then CPU performs the task according to the instructions written in that program and place the result into UserScreen.
+Then we press Alt + F5 to open UserScreen and check the result of the program.
+
+
+Important Points
+1.	C program file (Source file) must save with .c extension.
+2.	Compiler converts complete program at a time from high level language to low level
+3	Input to the compiler is .c file and output from the compiler is .exe file, but it also
+            generates .obj file in this process.
+4	Compiler converts the file only if there are no errors in the source code.
+5	CPU places the result in User Screen window.
+
+
+Overall Process
+•	Type the program in C editor and save with .c extension (Press F2 to save).
+•	Press Alt + F9 to compile the program.
+•	If there are errors, correct the errors and recompile the program.
+•	If there are no errors, then press Ctrl + F9 to execute / run the program.
+•	Press Alt + F5 to open User Screen and check the result.
