@@ -1,0 +1,14 @@
+Algorithm:
+
+Step 1: start
+Step 2: read a and b variables
+Step 3: display the options
+Step 4: read input choice
+Step 5: choice is 1 then goto step 6, or choice is 2 then goto step 7, or choice is 3 then goto step 8, or choice is 4 then goto step 9, or choice is other then these num goto step 10
+Step 6: addition of two numbers
+Step 7: subtraction of two numbers
+Step 8: multiplication of two numbers
+Step 9: division of two numbers.
+Step 10: invalid choice
+Step 11: print result
+Step 12: stop

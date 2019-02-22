@@ -1,0 +1,23 @@
+ALGORITHM:
+
+Step 1: [Start]
+
+Step 2: [Read the value of x in degrees] Read x
+
+Step 3: [Initialization & Radians conversion] 
+		Temp=x
+        x=x*(3.142/180.0)
+        Term=x
+        Sinx=term
+        n=1
+
+Step 4: [compute sin value]]
+		Repeat While (term>FLT_EPSILON)
+		Fact =2*n*(2*n+1)
+		Term=term*x*x/fact Sinx 
+		sinx+term= n+1n
+
+Step 5: [Output] 
+        Print sin(x) without using library function Print  sin(x) with using library function
+        
+Step 6: [Stop]

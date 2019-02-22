@@ -1,0 +1,29 @@
+Algorithm:
+
+Step 1:[read the value of N]
+    	Read N
+
+Step 2:[Enter the elements in ascending order]
+		For i=0 to N-1 is to be read from the key board
+
+Step 3:[Enter the one element for searching that could be a key element]
+
+Step 4:intialy set low=0 and high=N
+
+Step 5:[Find out the middle value]
+           Mid=(low+hogh)/2;
+
+Step 6:Check key value is lesser than middle value go to step 7 
+       Check key value is greater than middle value go to step 8
+         
+Step 7: high=mid-1
+
+Step 8: low =mid+1;
+
+Step 9: if key value and mid value are same than go to step 10 if not go to step 11
+
+Step 10: successful search
+
+Step 11: not searched the key element 
+
+Step 12: stop

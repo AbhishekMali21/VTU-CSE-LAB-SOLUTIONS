@@ -1,0 +1,17 @@
+Algorithm:
+
+Step 1: start
+
+Step 2: read number
+
+Step 3: if number is not equal to zero , goto step 4 else goto step 7
+
+Step 4: calculate remainder number by 2, get n value by n divide by 2
+
+Step 5: calculate decimal by adding decimal and remainder by multiply power of 2, i
+
+Step 6: count by increasing i by one
+
+Step 7: print decimal
+
+Step 8: stop

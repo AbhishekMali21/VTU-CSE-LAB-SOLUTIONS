@@ -1,0 +1,16 @@
+ALGORITHM:
+
+Step 1: Start 
+
+Step 2: [Read the value of N(positive integers)]
+   		Read N 
+
+Step 3: [to check weather N is prime or not]
+		For i=2 to m/2 
+		If m%i=0 then go to step 4 otherwise go to step 5 
+
+Step 4: Print message  not a prime number
+
+Step 5: Print a message  prime number 
+
+Step 6: stop

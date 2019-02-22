@@ -1,0 +1,11 @@
+Algorithm:
+
+Step 1: start
+
+Step 2: read number
+
+Step 3: calculate number to the power of 0.5(sq=pow(n,0.5))
+
+Step 4: print sq
+
+Step 5: stop

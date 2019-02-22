@@ -1,0 +1,22 @@
+ALGORITHM:
+
+Step 1:	Start 
+
+Step 2:	[Read the order of both matrices M,N,P,Q]
+
+Step 3: Check for i=0 to M  and j=0 to N for the matrix A,read A[i][j]
+
+Step 4:	Check for i=0to P and j=0 to Q for matrix B read B[i][j]
+
+Step 5:	if(N=P) then only multiplication is possible then go to step 6 otherwise go    
+            to step 7
+
+Step 6: intialy set matrix C[i][j] as 0 
+ 		For k=0 to n
+		C[i][j]=C[i][j]+A[i][k]*B[i][k] go to step 8
+
+Step 7: Multiplication is not possible 
+
+Step 8: Prints the multiplication of two matrix
+
+Step 9: Stop

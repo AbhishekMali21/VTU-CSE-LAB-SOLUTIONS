@@ -1,0 +1,15 @@
+ALGORITHM:
+
+Step 1: start
+Step 2: read customer number
+Step 3: read customer name
+Step 4: read unit consumed
+Step 5: unit is less then 200,charge 0.80 per unit
+Step 6: if unit is greater then 200 and less then 300, charge 0.90 per unit
+Step 7: unit is greater then 400 charge 1.00 per unit,
+Step 8: calculate amount by unit* charge
+Step 9: if the amount is greater then 400, then an additional surcharge of 15% of total amount is  
+           charge toatal-amount=amt+surcharge.
+Step 10: Addition of rs 100 as mnimum meter charge for all customer to totalamount.
+Step 11: print customer number,name,unit_consumed_amount,surcharge,totalAMOUNT+100
+Step 12:stop

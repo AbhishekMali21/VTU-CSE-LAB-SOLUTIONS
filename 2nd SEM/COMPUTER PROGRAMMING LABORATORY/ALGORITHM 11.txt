@@ -1,0 +1,19 @@
+ALGORITHM:
+
+Step 1: [read the value of N]
+           Read N
+
+Step 2: [Read N elements in to the array]
+		For i=0 to N,for j=0 to n-i-1
+
+Step 3: Check for bubble sort technique 
+  		A[j]>a[j+1]
+		Go to step 4 other wise repeat step 3 
+
+Step 4: temp=A[j];
+		A[j]=A[j+1]
+		A[j+1]=temp(SWAPPING OF ELEMENTS)
+
+Step 5: Print the sorted array 
+
+Step 6: Stop 

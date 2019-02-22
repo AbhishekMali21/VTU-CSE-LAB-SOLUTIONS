@@ -1,0 +1,11 @@
+Algorithm:
+
+Step 1: Start
+Step 2: read two strings
+Step 3: calculate the string length using strlen()
+Step 4: compare the string using strcmp()
+Step 5: concatenate the strings using strcat()
+Step 6: print the stringlength
+Step 7: print strings are equal or not equal
+Step 8: print concatenated sting
+Step 9: stop

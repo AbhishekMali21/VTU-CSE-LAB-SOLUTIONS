@@ -1,0 +1,32 @@
+Algorithm:
+
+Step1:[read the values of A,B and C]
+       Read A,B,C
+
+Step2:[check for the co-efficients]
+      If  A=0 and B=0 and C=0
+   	  	Then roots are non-determinant
+
+Step 3:[compute the value of Disc]
+       Disc=B*B-4*A*C;
+
+Step 4:[Depending on the value of disc different roots are obtained]
+ 		If Disc is lesser than 0 go to Step 5
+        	If Disc is equals to 0 go to step 6
+		If Disc is greater than 0 go to step 7
+
+Step 5: Print the imaginary roots    
+		Realp=-B/2*A;
+		Imagp =sqrt(Disc)/2*A;
+		Root1=realp+imagep;
+    	Root2=realp-imagep;
+
+Step 6: roots are real and equal 
+   		Root1=-B/2*A;
+		Root2=root1 ;
+
+Step 7: roots are real and distinct 
+		Root1=-B+sqrt(Disc)/2*A;
+		Root2=-B-sqrt(Disc)/2*A;
+
+Step 8: stop

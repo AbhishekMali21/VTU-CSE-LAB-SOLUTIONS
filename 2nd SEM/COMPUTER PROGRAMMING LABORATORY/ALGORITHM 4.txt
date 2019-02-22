@@ -1,0 +1,20 @@
+ALGORITHM:
+Step 1: [read the number N]
+    	Read N
+
+Step 2: initialize M=N,REV=0
+
+Step 3: [check the value of  N]
+        If N is not equal to 0  go to step 4 else go to step 5
+
+Step 4: digit=N%10;
+        N=N/10;
+   		REV=REV*10+digit ;[executes these three steps until N value become 0] 
+
+Step 5: check weather the M=REV if so,go to step 6 else goto step 7
+
+Step 6: Print number is palindrome
+
+Step 7: Print number is not palindrome  
+
+Step 8: Stop.

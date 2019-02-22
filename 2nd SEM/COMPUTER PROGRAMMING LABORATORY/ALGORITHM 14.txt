@@ -1,0 +1,25 @@
+Algorithm:
+
+Step 1: [Start]
+
+Step 2: [Input the elements]
+        Read n, a[i]
+
+Step 3: [Initialize] sum=0,sumstd=0
+
+Step 4: [Compute sum, mean, standard deviation] 
+		Ptr=a
+		For i = 0 thru n in steps of 1
+			Sum=sum+*ptr
+			Ptr++
+			Mean=sum/n 		
+ 			Ptr=a
+		For i 0 thru n in steps of 1
+			Sumstd=sumstd+pow((*ptr-mean),2)
+			Ptr++
+			std=sqrt(sumstd/n)
+
+Step 5: [Output]
+		Print sum, mean, standard deviation
+
+Step 6: [Stop]
