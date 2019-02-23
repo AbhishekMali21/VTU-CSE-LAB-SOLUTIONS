@@ -164,17 +164,19 @@
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     01. A    |                                      LEX - RECOGNIZE VALID ARITHMETIC EXPRESSION                                     				  |[]()                                                                                                                              									    |
-|01. B|YACC - EVALUATE ARITHMETIC EXPRESSION| []()|
-|02.|YACC - RECOGNIZE ALL STRINGS|[]()|
-|03.|YACC - CONSTRUCT PREDICTIVE/LL(1) PARSING TABLE|[]()|
-|04.|YACC - SHIFT REDUCE PARSING TECHNIQUE|[]()|
-|05.|GENERATE  MACHINE CODE USING TRIPLES|[]()|
-|06. A|LEX - ELIMINATE COMMENT LINES IN A C PROGRAM|[]()|
-|06. B|YACC - RECOGNIZE VALID IDENTIFIER, OPERATORS AND KEYWORDS|[]()|
-|07.|ROUND ROBIN (RR) SCHEDULING ALGORITHM|[]()|
-|08.|BANKER’S ALGORITHM|[]()|
-|09.|PAGE REPLACEMENT ALGORITHMS LRU AND FIFO|[]()|
+|     01. A    |                                      LEX - RECOGNIZE VALID ARITHMETIC EXPRESSION                                     				  |[LAB1.l](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB1.l)                                                                                                                              									    |
+|01. B|YACC - EVALUATE ARITHMETIC EXPRESSION| [LAB1B.l](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB1B.l)<br>[LAB1B.y](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB1B.y)|
+|02.|YACC - RECOGNIZE ALL STRINGS|[LAB2.l](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB2.l)<br>[LAB2.y](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB2.y)|
+|03.|C - CONSTRUCT PREDICTIVE/LL(1) PARSING TABLE|[LAB3.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB3.c)|
+|04.|C - SHIFT REDUCE PARSING TECHNIQUE|[LAB4.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB4.c)|
+|05.|C - GENERATE  MACHINE CODE USING TRIPLES|[LAB5.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB5.c)<br>[input.txt](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/input.txt)<br>[output.txt](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/output.txt)|
+|06. A|LEX - ELIMINATE COMMENT LINES IN A C PROGRAM|[LAB6.l](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB6.l)<br>[f1.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/f1.c)<br>[f2.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/f2.c)|
+|06. B|YACC - RECOGNIZE VALID IDENTIFIER, OPERATORS AND KEYWORDS|[LAB6B.l](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB6B.l)<br>[LAB6B.y](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB6B.y)<br>[inputfile.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/inputfile.c)|
+|07.|C - ROUND ROBIN (RR) SCHEDULING ALGORITHM|[]()|
+|08.|C - BANKER’S ALGORITHM|[LAB8.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB8.c)|
+|09.|C - PAGE REPLACEMENT ALGORITHMS LRU AND FIFO|[LAB9.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB9.c)|
+|10. A|C - A NUMERICAL CALCULATOR|[LAB10a.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB10a.c)|
+|10. B|C - PAGE REPLACEMENT TECHNIQUE|[LAB10b.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB10b.c)|
 
 ## COMPUTER GRAPHICS LABORATORY
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
@@ -221,4 +223,4 @@
 |10.|PHP - SORTING THE STUDENT RECORDS|[]()|
 
 
-# FEEL FREE TO SEND PULL REQUESTS WITH UPDATES IN CASE YOU FIND ANY ISSUES :)
+### FEEL FREE TO SEND PULL REQUESTS WITH UPDATES IN CASE YOU FIND ANY ISSUES :)
