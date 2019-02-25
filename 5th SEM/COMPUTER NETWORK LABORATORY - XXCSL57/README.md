@@ -11,7 +11,7 @@
 6.	Implement and study the performance of CDMA on NS2/NS3 (Using stack called Call net) or equivalent environment.
 
 # PART B
-## Implement the following in Java:
+## Implement the following in Java :
 
 7.	Write a program for error detecting code using CRC-CCITT (16- bits).
 8.	Write a program to find the shortest path between vertices using bellman-ford algorithm.
