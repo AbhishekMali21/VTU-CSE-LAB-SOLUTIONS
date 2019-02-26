@@ -4,7 +4,7 @@ int v=0,op=0,id=0,flag=0;
 %}
 %%
 [a-zA-Z]+[0-9A-Za-z]* {id++;printf("\n Identifier:");ECHO;}
-[\+\-\*/\=]{op++;printf("\n Operator:");ECHO;}
+[\+\-\*/\=] {op++;printf("\n Operator:");ECHO;}
 "(" {v++;}
 ")" {v--;}
 ";" {flag=1;}
