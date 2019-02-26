@@ -179,17 +179,17 @@
 |10. B|C - PAGE REPLACEMENT TECHNIQUE|[LAB10b.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB10b.c)|
 
 ## COMPUTER GRAPHICS LABORATORY
-|   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
-|:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     01.     |                                        BRENHAM’S LINE DRAWING ALGORITHM FOR ALL TYPES OF SLOPE                                     				  |[]()                                                                                                                              									    |
-|02.|CREATE AND ROTATE A TRIANGLE ABOUT THE ORIGIN AND A FIXED POINT|[]()|
-|03.|COLOUR CUBE AND SPIN IT USING OPENGL TRANSFORMATION MATRICES|[]()|
-|04.|COLOR CUBE AND ALLOW THE USER TO MOVE THE CAMERA SUITABLY TO EXPERIMENT|[]()|
-|05.|CLIP A LINES USING COHEN-SUTHERLAND ALGORITHM|[]()|
-|06.|SIMPLE SHADED SCENE CONSISTING OF A TEA POT ON A TABLE|[]()|
-|07.|TETRAHEDRON TO FORM 3D SIERPINSKI GASKET|[]()|
-|08.|ANIMATE A FLAG USING BEZIER CURVE ALGORITHM|[]()|
-|09.|FILL THE POLYGON USING SCAN LINE ALGORITHM|[]()|
+|   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |OUTPUT|
+|:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|     01.     |                                        BRENHAM’S LINE DRAWING ALGORITHM FOR ALL TYPES OF SLOPE                                     				  |[LAB1.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB1.cpp)                                                                                                                              									    |[OUTPUT]()|
+|02.|CREATE AND ROTATE A TRIANGLE ABOUT THE ORIGIN AND A FIXED POINT|[LAB2.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB2.cpp)|[OUTPUT]()|
+|03.|COLOUR CUBE AND SPIN IT USING OPENGL TRANSFORMATION MATRICES|[LAB3.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB3.cpp)|[OUTPUT]()|
+|04.|COLOR CUBE AND ALLOW THE USER TO MOVE THE CAMERA SUITABLY TO EXPERIMENT|[LAB4.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB4.cpp)|[OUTPUT]()|
+|05.|CLIP A LINES USING COHEN-SUTHERLAND ALGORITHM|[LAB5.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB5.cpp)|[OUTPUT]()|
+|06.|SIMPLE SHADED SCENE CONSISTING OF A TEA POT ON A TABLE|[LAB6.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB6.cpp)|[OUTPUT]()|
+|07.|TETRAHEDRON TO FORM 3D SIERPINSKI GASKET|[LAB7.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB7.cpp)|[OUTPUT]()|
+|08.|ANIMATE A FLAG USING BEZIER CURVE ALGORITHM|[LAB8.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB8.cpp)|[OUTPUT]()|
+|09.|FILL THE POLYGON USING SCAN LINE ALGORITHM|[LAB9.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB9.cpp)|[OUTPUT]()|
 
 #  👉 7th SEMESTER
 ## MACHINE LEARNING LABORATORY
