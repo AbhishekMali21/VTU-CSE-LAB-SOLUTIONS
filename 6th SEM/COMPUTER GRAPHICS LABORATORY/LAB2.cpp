@@ -1,6 +1,7 @@
-#include <GL/glut.h>
 #include <stdlib.h>
+#include <GL/glut.h>
 #include <math.h>
+
 GLsizei winWidth = 600, winHeight = 600;
 GLfloat xwcMin = 0.0, xwcMax = 225.0;
 GLfloat ywcMin = 0.0, ywcMax = 225.0;
