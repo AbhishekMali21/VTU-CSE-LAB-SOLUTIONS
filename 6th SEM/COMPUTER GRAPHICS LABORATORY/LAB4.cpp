@@ -1,6 +1,6 @@
+#include <stdlib.h>
 #include <GL/glut.h>
 #include <stdio.h>
-#include <stdlib.h>
 
 GLfloat vertices[ ]={  -1.0,-1.0,-1.0,
 						1.0,-1.0,-1.0,
