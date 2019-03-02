@@ -1,4 +1,4 @@
-# Lab Experiments:
+# Lab Experiments :
 ## PART A
 ### Design, develop, and implement the following programs using OpenGL API
 1. Implement Brenham’s line drawing algorithm for all types of slope.
