@@ -5,32 +5,39 @@
     <br>ONE STOP FOR CSE/ISE LAB SOLUTIONS OF VTU (SCHEMES INCLUDED ARE +2015 +2017 +2018) 
 </p>
 
-# VTU CSE/ISE LAB SOLUTIONS
+# 💸 💎 💰 💻 VTU CSE/ISE LAB SOLUTIONS 💻 💰 💎 💸 
 
-## 2ND SEMESTER
-* [COMPUTER PROGRAMMING LABORATORY](#computer-programming-laboratory)  -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/2nd%20SEM/COMPUTER%20PROGRAMMING%20LABORATORY/README.md)
+|<h3>👉 2nd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+|[COMPUTER PROGRAMMING LABORATORY](#computer-programming-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/2nd%20SEM/COMPUTER%20PROGRAMMING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-PROGRAMMING-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1_j3VTKlvgiH7RC1OF5XVozYBOQX8DRKc/view?usp=sharing)|
 
-## 3rd SEMESTER
-* [DATA STRUCTURES LABORATORY](#data-structures-laboratory)  -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/3rd%20SEM/DATA%20STRUCTURES%20LABORATORY/README.md)
+|<h3>👉 3rd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+|[DATA STRUCTURES LABORATORY](#data-structures-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/3rd%20SEM/DATA%20STRUCTURES%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/DATA-STRUCTURES-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/16FLhGW-w3gwtoBl3v6Agm4B5Eqztg5uJ/view?usp=sharing)|
 
-## 4th SEMESTER
-* [DESIGN AND ANALYSIS OF ALGORITHM LABORATORY](#design-and-analysis-of-algorithm-laboratory) -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/README.md)
-* [MICROPROCESSOR AND MICROCONTROLLER LABORATORY](#microprocessor-and-microcontroller-laboratory) -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/MICROPROCESSOR%20AND%20MICROCONTROLLER%20LABORATORY%20-%20XXCSL48/README.md)
+|<h3>👉 4th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+|[DESIGN AND ANALYSIS OF ALGORITHM LABORATORY](#design-and-analysis-of-algorithm-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/README.md)|[LINK](https://github.com/AbhishekMali21/DESIGN-AND-ANALYSIS-OF-ALGORITHM-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1rfCwDaMVMZYKlC7GRvNNLFprz_GXyc1n/view?usp=sharing)|
+|[MICROPROCESSOR AND MICROCONTROLLER LABORATORY](#microprocessor-and-microcontroller-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/MICROPROCESSOR%20AND%20MICROCONTROLLER%20LABORATORY%20-%20XXCSL48/README.md)|[LINK](https://github.com/AbhishekMali21/MICROPROCESSOR-AND-MICROCONTROLLER-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1-0qmnilLjDgbXEIOrz6EApi0Ii6fo3GS/view?usp=sharing)|
+  
+|<h3>👉 5th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+|[COMPUTER NETWORK LABORATORY](#computer-network-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-NETWORK-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1uVRXBRb2V6A2NezNIXMq8cbdofyJXsyK/view?usp=sharing)|
+|[DBMS LABORATORY](#dbms-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/README.md)|[LINK](https://github.com/AbhishekMali21/DBMS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1M2iTou48zdDXYNlG3Ikv_Ocegb9Rmh0Q/view?usp=sharing)|
+  
+|<h3>👉 6th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+|[SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY](#system-software-and-operating-system-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/README.md)|[LINK]|[PDF]|
+|[COMPUTER GRAPHICS LABORATORY](#computer-graphics-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1uVRXBRb2V6A2NezNIXMq8cbdofyJXsyK/view?usp=sharing)|
+  
+|<h3>👉 7th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
+|:----------------------:|:----------------------:|:----------------------:|:----------------------:|
+|[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK]|[PDF]|
+|[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK]|[PDF]|
 
-## 5th SEMESTER
-* [COMPUTER NETWORK LABORATORY](#computer-network-laboratory)  -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/README.md)
-* [DBMS LABORATORY](#dbms-laboratory)  -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/README.md)
-
-## 6th SEMESTER
-* [SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY](#system-software-and-operating-system-laboratory)  -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/README.md)
-* [COMPUTER GRAPHICS LABORATORY](#computer-graphics-laboratory)  -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)
-
-## 7th SEMESTER
-* [MACHINE LEARNING LABORATORY](#machine-learning-laboratory)  -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)
-* [WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)  -------> [(<b>SYLLABUS</b>)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)
 
 
-#  👉 2nd SEMESTER
+#  📗 📘 📙 2nd SEMESTER 📗 📘 📙
 ## COMPUTER PROGRAMMING LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
@@ -56,7 +63,7 @@
 
 
 
-#  👉 3rd SEMESTER
+#  📗 📘 📙 3rd SEMESTER 📗 📘 📙
 ## DATA STRUCTURES LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
@@ -77,7 +84,7 @@
 |11.|GRAPH(G) OF CITIES|[GRAPH.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/3rd%20SEM/DATA%20STRUCTURES%20LABORATORY/GRAPH.c)|
 |12.|HASH TABLE(HT)|[HASHING.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/3rd%20SEM/DATA%20STRUCTURES%20LABORATORY/HASHING.c)|
 
-#  👉 4th SEMESTER
+#  📗 📘 📙 4th SEMESTER 📗 📘 📙
 ## DESIGN AND ANALYSIS OF ALGORITHM LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |STEPS & OUTPUT|
@@ -127,7 +134,7 @@
 |     13.     |                                      ROTATE STEPPER MOTOR - ARM PROCESSOR                                    				  |[LAB13.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/MICROPROCESSOR%20AND%20MICROCONTROLLER%20LABORATORY%20-%20XXCSL48/Lab13.c)                                                                                                                              									    |
 
 
-#  👉 5th SEMESTER
+#  📗 📘 📙 5th SEMESTER 📗 📘 📙
 ## COMPUTER NETWORK LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |                               STEPS & OUTPUT                              |
@@ -159,7 +166,7 @@
 |     04.     |                                        COLLEGE DATABASE                                     				  |[COLLEGE DATABASE.sql](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/4.%20COLLEGE%20DATABASE.sql)                                                                                                                              									    |
 |     05.     |                                        COMPANY DATABASE                                     				  |[COMPANY DATABASE.sql](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/5.%20COMPANY%20DATABASE.sql)                                                                                                                              									    |
 
-#  👉 6th SEMESTER
+#  📗 📘 📙 6th SEMESTER 📗 📘 📙
 ## SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
@@ -191,7 +198,7 @@
 |08.|ANIMATE A FLAG USING BEZIER CURVE ALGORITHM|[LAB8.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB8.cpp)|[OUTPUT]()|
 |09.|FILL THE POLYGON USING SCAN LINE ALGORITHM|[LAB9.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB9.cpp)|[OUTPUT]()|
 
-#  👉 7th SEMESTER
+#  📗 📘 📙 7th SEMESTER 📗 📘 📙
 ## MACHINE LEARNING LABORATORY
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
