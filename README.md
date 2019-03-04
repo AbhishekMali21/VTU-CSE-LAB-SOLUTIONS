@@ -5,7 +5,7 @@
     <br>ONE STOP FOR CSE/ISE LAB SOLUTIONS OF VTU (SCHEMES INCLUDED ARE +2015 +2017 +2018) 
 </p>
 
-# 💸 💎 💰 💻 VTU CSE/ISE LAB SOLUTIONS 💻 💰 💎 💸 
+# 💻 VTU CSE/ISE LAB SOLUTIONS 💻
 
 |<h3>👉 2nd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
