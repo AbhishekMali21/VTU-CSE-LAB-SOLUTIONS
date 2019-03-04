@@ -9,7 +9,7 @@
 
 |<h3>👉 2nd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[COMPUTER PROGRAMMING LABORATORY](#computer-programming-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/2nd%20SEM/COMPUTER%20PROGRAMMING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-PROGRAMMING-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1_j3VTKlvgiH7RC1OF5XVozYBOQX8DRKc/view?usp=sharing)|
+|[COMPUTER PROGRAMMING LABORATORY](#computer-programming-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/2nd%20SEM/COMPUTER%20PROGRAMMING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-PROGRAMMING-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1Cy8vO_ZRLP9pDCAgOiyicYDV2DIqBtHw/view?usp=sharing)|
 
 |<h3>👉 3rd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
@@ -23,7 +23,7 @@
 |<h3>👉 5th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
 |[COMPUTER NETWORK LABORATORY](#computer-network-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-NETWORK-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1uVRXBRb2V6A2NezNIXMq8cbdofyJXsyK/view?usp=sharing)|
-|[DBMS LABORATORY](#dbms-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/README.md)|[LINK](https://github.com/AbhishekMali21/DBMS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1M2iTou48zdDXYNlG3Ikv_Ocegb9Rmh0Q/view?usp=sharing)|
+|[DBMS LABORATORY](#dbms-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/README.md)|[LINK](https://github.com/AbhishekMali21/DBMS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1KSNIJiUh3XntHEcDulI860bJp1ecyr9V/view?usp=sharing)|
   
 |<h3>👉 6th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
