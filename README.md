@@ -218,10 +218,10 @@
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     01.     |                                        SIMPLE CALCULATOR USING JAVASCRIPT                                    				  |[]()|
-|02.|SQUARES AND CUBES OF NUMBERS|[]()|
-|03.|TEXT-GROWING & TEXT-SHRINKING|[]()|
-|04.|HTML5 FILE WITH JAVASCRIPT SCRIPT THAT USES FUNCTIONS |[]()|
+|01.|SIMPLE CALCULATOR USING JAVASCRIPT|[PROG1.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG1.html)|
+|02.|SQUARES AND CUBES OF NUMBERS|[PROG2.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG2.html)|
+|03.|TEXT-GROWING & TEXT-SHRINKING|[PROG3.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG3.html)|
+|04.|LEFT MOST VOWEL & REVERSE NUMBER|[PROG4.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG4.html)|
 |05.|XML - STORE INFORMATION ABOUT A STUDENT|[]()|
 |06.|PHP - NUMBER OF VISITORS |[]()|
 |07.|PHP - DIGITAL CLOCK|[]()|
