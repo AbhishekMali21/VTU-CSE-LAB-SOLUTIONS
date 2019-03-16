@@ -33,7 +33,7 @@
 |<h3>👉 7th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
 |[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK]|[PDF]|
-|[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK]|[PDF]|
+|[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK]|[PDF](https://drive.google.com/file/d/18CDVuPPwCsIW_X0y_uoHoLqlottkVWJc/view?usp=sharing)|
 
 
 
