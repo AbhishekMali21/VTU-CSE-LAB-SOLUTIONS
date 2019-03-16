@@ -216,18 +216,19 @@
 
 ## WEB TECHNOLOGY LABORATORY
 
-|   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
-|:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|01.|SIMPLE CALCULATOR USING JAVASCRIPT|[PROG1.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG1.html)|
-|02.|SQUARES AND CUBES OF NUMBERS|[PROG2.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG2.html)|
-|03.|TEXT-GROWING & TEXT-SHRINKING|[PROG3.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG3.html)|
-|04.|LEFT MOST VOWEL & REVERSE NUMBER|[PROG4.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG4.html)|
-|05.|XML - STORE INFORMATION ABOUT A STUDENT|[]()|
-|06.|PHP - NUMBER OF VISITORS |[]()|
-|07.|PHP - DIGITAL CLOCK|[]()|
-|08.|PHP - MATRIX OPERATIONS|[]()|
-|09.|PHP - STATES.PY|[]()|
-|10.|PHP - SORTING THE STUDENT RECORDS|[]()|
+|   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    | OUTPUT |
+|:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
+|01.|SIMPLE CALCULATOR USING JAVASCRIPT|[PROG1.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG1.html)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT1.JPG)|
+|02.|SQUARES AND CUBES OF NUMBERS|[PROG2.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG2.html)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT2.JPG)|
+|03.|TEXT-GROWING & TEXT-SHRINKING|[PROG3.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG3.html)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT3.gif)|
+|04.|LEFT MOST VOWEL & REVERSE NUMBER|[PROG4.html](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG4.html)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT4a.JPG)<br>[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT4b.JPG)|
+|05.|XML - STORE INFORMATION ABOUT A STUDENT|[PROG5.xml](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG5.xml)<br>[PROG5.css](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG5.css)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT5.JPG)|
+|06.|PHP - NUMBER OF VISITORS |[PROG6.php](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG6.php)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT6.JPG)|
+|07.|PHP - DIGITAL CLOCK|[PROG7.php](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG7.php)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT7.JPG)|
+|08. A|PHP - SIMPLE CALCULATOR|[PROG8A.php](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG8A.php)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT8A.JPG)|
+|08. B|PHP - MATRIX OPERATIONS|[PROG8B.php](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG8B.php)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT8B.JPG)|
+|09.|PHP - STATES SEARCH OPERATIONS|[PROG9.php](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/PROG9.php)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/OUTPUT/OUTPUT9.JPG)|
+|10.|PHP - SORTING THE STUDENT RECORDS|[]()||
 
 
 ### FEEL FREE TO SEND PULL REQUESTS WITH UPDATES IN CASE YOU FIND ANY ISSUES :)
