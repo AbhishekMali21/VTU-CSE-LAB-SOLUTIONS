@@ -32,8 +32,8 @@
   
 |<h3>👉 7th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK]|[PDF]|
-|[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK]|[PDF](https://drive.google.com/file/d/18CDVuPPwCsIW_X0y_uoHoLqlottkVWJc/view?usp=sharing)|
+|[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/MACHINE-LEARNING-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1Ku--XcyqlizuXYU53jwBm6z36QeDRCnO/view?usp=sharing)|
+|[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/WEB-TECHNOLOGY-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1RlQefpO6-gPQxcovah_VmQGggo4sXfaB/view?usp=sharing)|
 
 
 
