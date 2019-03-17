@@ -1,0 +1,153 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# MACHINE LEARNING LAB - 7 (  Bayesian Network  )"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**7. Write a program to construct a Bayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set. You can use Java/Python ML library classes/API.**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "    age  Gender  Family  diet  Lifestyle  cholestrol  heartdisease\n",
+      "0     0       0       1     1          3           0             1\n",
+      "1     0       1       1     1          3           0             1\n",
+      "2     1       0       0     0          2           1             1\n",
+      "3     4       0       1     1          3           2             0\n",
+      "4     3       1       1     0          0           2             0\n",
+      "5     2       0       1     1          1           0             1\n",
+      "6     4       0       1     0          2           0             1\n",
+      "7     0       0       1     1          3           0             1\n",
+      "8     3       1       1     0          0           2             0\n",
+      "9     1       1       0     0          0           2             1\n",
+      "10    4       1       0     1          2           0             1\n",
+      "11    4       0       1     1          3           2             0\n",
+      "12    2       1       0     0          0           0             0\n",
+      "13    2       0       1     1          1           0             1\n",
+      "14    3       1       1     0          0           1             0\n",
+      "15    0       0       1     0          0           2             1\n",
+      "16    1       1       0     1          2           1             1\n",
+      "17    3       1       1     1          0           1             0\n",
+      "18    4       0       1     1          3           2             0\n"
+     ]
+    }
+   ],
+   "source": [
+    "import pandas as pd\n",
+    "data=pd.read_csv(\"heartdisease.csv\")\n",
+    "heart_disease=pd.DataFrame(data)\n",
+    "print(heart_disease)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from pgmpy.models import BayesianModel\n",
+    "model=BayesianModel([\n",
+    "('age','Lifestyle'),\n",
+    "('Gender','Lifestyle'),\n",
+    "('Family','heartdisease'),\n",
+    "('diet','cholestrol'),\n",
+    "('Lifestyle','diet'),\n",
+    "('cholestrol','heartdisease'),\n",
+    "('diet','cholestrol')\n",
+    "])\n",
+    "\n",
+    "from pgmpy.estimators import MaximumLikelihoodEstimator\n",
+    "model.fit(heart_disease, estimator=MaximumLikelihoodEstimator)\n",
+    "\n",
+    "from pgmpy.inference import VariableElimination\n",
+    "HeartDisease_infer = VariableElimination(model)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "For age Enter { SuperSeniorCitizen:0, SeniorCitizen:1, MiddleAged:2, Youth:3, Teen:4 }\n",
+      "For Gender Enter { Male:0, Female:1 }\n",
+      "For Family History Enter { yes:1, No:0 }\n",
+      "For diet Enter { High:0, Medium:1 }\n",
+      "For lifeStyle Enter { Athlete:0, Active:1, Moderate:2, Sedentary:3 }\n",
+      "For cholesterol Enter { High:0, BorderLine:1, Normal:2 }\n",
+      "Enter age :1\n",
+      "Enter Gender :1\n",
+      "Enter Family history :0\n",
+      "Enter diet :1\n",
+      "Enter Lifestyle :0\n",
+      "Enter cholestrol :1\n",
+      "+----------------+---------------------+\n",
+      "| heartdisease   |   phi(heartdisease) |\n",
+      "+================+=====================+\n",
+      "| heartdisease_0 |              0.0000 |\n",
+      "+----------------+---------------------+\n",
+      "| heartdisease_1 |              1.0000 |\n",
+      "+----------------+---------------------+\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('For age Enter { SuperSeniorCitizen:0, SeniorCitizen:1, MiddleAged:2, Youth:3, Teen:4 }')\n",
+    "print('For Gender Enter { Male:0, Female:1 }')\n",
+    "print('For Family History Enter { yes:1, No:0 }')\n",
+    "print('For diet Enter { High:0, Medium:1 }')\n",
+    "print('For lifeStyle Enter { Athlete:0, Active:1, Moderate:2, Sedentary:3 }')\n",
+    "print('For cholesterol Enter { High:0, BorderLine:1, Normal:2 }')\n",
+    "\n",
+    "q = HeartDisease_infer.query(variables=['heartdisease'], evidence={\n",
+    "    'age':int(input('Enter age :')),\n",
+    "    'Gender':int(input('Enter Gender :')),\n",
+    "    'Family':int(input('Enter Family history :')),\n",
+    "    'diet':int(input('Enter diet :')),\n",
+    "    'Lifestyle':int(input('Enter Lifestyle :')),\n",
+    "    'cholestrol':int(input('Enter cholestrol :'))\n",
+    "    })\n",
+    "\n",
+    "print(q['heartdisease'])"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
