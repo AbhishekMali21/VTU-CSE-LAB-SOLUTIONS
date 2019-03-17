@@ -1,0 +1,138 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# MACHINE LEARNING LAB - 4 (  Backpropagation Algorithm )"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**4. Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import numpy as np\n",
+    "\n",
+    "X = np.array(([2, 9], [1, 5], [3, 6]), dtype=float)     # X = (hours sleeping, hours studying)\n",
+    "y = np.array(([92], [86], [89]), dtype=float)           # y = score on test\n",
+    "\n",
+    "# scale units\n",
+    "X = X/np.amax(X, axis=0)        # maximum of X array\n",
+    "y = y/100                       # max test score is 100"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "class Neural_Network(object):\n",
+    "    def __init__(self):\n",
+    "                            # Parameters\n",
+    "        self.inputSize = 2\n",
+    "        self.outputSize = 1\n",
+    "        self.hiddenSize = 3\n",
+    "                             # Weights\n",
+    "        self.W1 = np.random.randn(self.inputSize, self.hiddenSize)        # (3x2) weight matrix from input to hidden layer\n",
+    "        self.W2 = np.random.randn(self.hiddenSize, self.outputSize)       # (3x1) weight matrix from hidden to output layer\n",
+    "\n",
+    "    def forward(self, X):\n",
+    "                             #forward propagation through our network\n",
+    "        self.z = np.dot(X, self.W1)               # dot product of X (input) and first set of 3x2 weights\n",
+    "        self.z2 = self.sigmoid(self.z)            # activation function\n",
+    "        self.z3 = np.dot(self.z2, self.W2)        # dot product of hidden layer (z2) and second set of 3x1 weights\n",
+    "        o = self.sigmoid(self.z3)                 # final activation function\n",
+    "        return o \n",
+    "\n",
+    "    def sigmoid(self, s):\n",
+    "        return 1/(1+np.exp(-s))     # activation function \n",
+    "\n",
+    "    def sigmoidPrime(self, s):\n",
+    "        return s * (1 - s)          # derivative of sigmoid\n",
+    "    \n",
+    "    def backward(self, X, y, o):\n",
+    "                                    # backward propgate through the network\n",
+    "        self.o_error = y - o        # error in output\n",
+    "        self.o_delta = self.o_error*self.sigmoidPrime(o) # applying derivative of sigmoid to \n",
+    "        self.z2_error = self.o_delta.dot(self.W2.T)    # z2 error: how much our hidden layer weights contributed to output error\n",
+    "        self.z2_delta = self.z2_error*self.sigmoidPrime(self.z2) # applying derivative of sigmoid to z2 error\n",
+    "        self.W1 += X.T.dot(self.z2_delta)       # adjusting first set (input --> hidden) weights\n",
+    "        self.W2 += self.z2.T.dot(self.o_delta)  # adjusting second set (hidden --> output) weights\n",
+    "\n",
+    "    def train (self, X, y):\n",
+    "        o = self.forward(X)\n",
+    "        self.backward(X, y, o)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "\n",
+      "Input: \n",
+      "[[0.66666667 1.        ]\n",
+      " [0.33333333 0.55555556]\n",
+      " [1.         0.66666667]]\n",
+      "\n",
+      "Actual Output: \n",
+      "[[0.92]\n",
+      " [0.86]\n",
+      " [0.89]]\n",
+      "\n",
+      "Predicted Output: \n",
+      "[[0.35822755]\n",
+      " [0.3701435 ]\n",
+      " [0.35339852]]\n",
+      "\n",
+      "Loss: \n",
+      "0.28116294139818154\n"
+     ]
+    }
+   ],
+   "source": [
+    "NN = Neural_Network()\n",
+    "print (\"\\nInput: \\n\" + str(X))\n",
+    "print (\"\\nActual Output: \\n\" + str(y)) \n",
+    "print (\"\\nPredicted Output: \\n\" + str(NN.forward(X)))\n",
+    "print (\"\\nLoss: \\n\" + str(np.mean(np.square(y - NN.forward(X)))))     # mean sum squared loss)\n",
+    "NN.train(X, y)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
