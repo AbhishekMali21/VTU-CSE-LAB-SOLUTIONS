@@ -1,22 +1,39 @@
 %{
-#include<stdio.h>
-int v=0,op=0,id=0,flag=0;
+int a[]={0,0,0,0},i,valid=1,opnd=0;
 %}
+%x OPER
 %%
-[a-zA-Z]+[0-9A-Za-z]* {id++;printf("\n Identifier:");ECHO;}
-[\+\-\*/\=] {op++;printf("\n Operator:");ECHO;}
-"(" {v++;}
-")" {v--;}
-";" {flag=1;}
-.|\n {;}
+[0-9]+ { BEGIN OPER; opnd++;}
+<OPER>"+" { if(valid) { valid=0;i=0;} else ext();}
+<OPER>"-" { if(valid) { valid=0;i=1;} else ext();}
+<OPER>"*" { if(valid) { valid=0;i=2;} else ext();}
+<OPER>"/" { if(valid) { valid=0;i=3;} else ext();}
+<OPER>[a-zA-Z0-9]+ { opnd++;
+if(valid==0)
+{
+valid=1; a[i]++;
+}
+else
+ext();
+}
+<OPER>"\n" { if(valid==0)
+ext();
+else
+return 0;
+}
+.\n ext();
 %%
-
+ext()
+{
+printf(" Invalid Expression \n");
+exit(0);
+}
 main()
 {
-	printf("Enter the expression:");
-	yylex();
-		if((op+1)==id && v==0 && flag==0)
-			printf("\n Expression is Valid\n");
-		else
-			printf("\n Expression is Invalid\n");
-}			
+printf(" Type the arithmetic Expression \n");
+yylex();
+printf(" Valid Arithmetic Expression \n");
+printf(" No. of Operands/Identifiers : %d \n ",opnd);
+printf(" No. of Additions : %d \n No. of Subtractions : %d \n",a[0],a[1]);
+printf(" No. of Multiplications : %d \n No. of Divisions : %d \n",a[2],a[3]);
+}
