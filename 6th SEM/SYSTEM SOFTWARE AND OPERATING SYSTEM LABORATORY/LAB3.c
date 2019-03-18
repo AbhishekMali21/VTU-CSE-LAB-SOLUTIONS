@@ -1,4 +1,4 @@
-/* A ->aBa , B ->bB | @*/
+/*GRAMMER RULES ---- A ->aBa , B ->bB | @*/
 
 #include<stdio.h>
 #include<string.h>
@@ -39,7 +39,7 @@ int numr(char c)
 		case 'b': return 2;
 		case '@': return 3;
     }
-	return(1);
+    return(1);
 }
 
 int main()
@@ -47,17 +47,17 @@ int main()
     char c;
     int i,j,k,n;
     for(i=0;i<3;i++)
-    for(j=0;j<4;j++)
-    strcpy(table[i][j],"e");
+    	for(j=0;j<4;j++)
+    	     strcpy(table[i][j],"EMPTY");
 
     printf("\n Grammar:\n");
     for(i=0;i<3;i++)
     	printf("%s\n",prod[i]);
 
-    printf("\nfirst= {%s,%s,%s}",first[0],first[1],first[2]);
-    printf("\nfollow ={%s %s}\n",follow[0],follow[1]);
+    printf("\nFIRST= {%s,%s,%s}",first[0],first[1],first[2]);
+    printf("\nFOLLOW ={%s %s}\n",follow[0],follow[1]);
 
-    printf("\nPredictive parsing table for the given grammar\n");
+    printf("\nPredictive Parsing Table for the given grammar\n");
     strcpy(table[0][0]," ");
     strcpy(table[0][1],"a");
     strcpy(table[0][2],"b");
@@ -83,12 +83,12 @@ int main()
 			if(j==3) printf("\n--------------------------------------------------------\n");
 		}
 
-    printf("enter the input string terminated with $ to parse :- ");
+    printf("Enter the input string terminated with $ to parse :- ");
     scanf("%s",input);
     for(i=0;input[i]!='\0';i++)
         if((input[i]!='a')&&(input[i]!='b')&&(input[i]!='$'))
 		{
-			printf("invalid string");
+			printf("Invalid string");
 			exit(0);
 		}
 		
@@ -101,7 +101,7 @@ int main()
     push('A');
     i=0;
     printf("\n\n");
-    printf(" stack\t   Input  \taction  ");
+    printf(" Stack\t   Input  \tAction  ");
     printf("\n--------------------------------------------------------\n");
     while(input[i]!='$' && stack[top]!='$')
     {
@@ -110,7 +110,7 @@ int main()
 
         if (stack[top]==input[i])
         {
-            printf("\tmatched %c\n",input[i]);
+            printf("\tMatched %c\n",input[i]);
             pop();
             i++;
         }
@@ -121,12 +121,12 @@ int main()
                 strcpy(curp,table[numr(stack[top])][numr(input[i])]);
                 if(!(strcmp(curp,"e")))
                 {
-                    printf("\n invalid string- Rejected\n");
+                    printf("\n Invalid String - Rejected\n");
                     exit(0);
                 }
                 else
                 {
-                    printf(" \tapply production %s\n",curp);
+                    printf(" \tApply Production %s\n",curp);
                     if(curp[3]=='@')
                         pop();
                     else
@@ -134,19 +134,18 @@ int main()
                         pop();
                         n=strlen(curp);
                         for(j=n-1;j>=3;j--)
-							push(curp[j]);
-
+			    push(curp[j]);
                     }
                 }
             }
-		}
-	}
+        }
+    }
 	
 	display();
 	printf("\t\t%s\t ",(input+i));
 	printf("\n--------------------------------------------------------\n");
 	if(stack[top]=='$' && input[i]=='$' )
-		printf("\n valid string - Accepted\n");
+		printf("\nValid String - Accepted\n");
 	else
-		printf("\ninvalid string- Rejected\n");
+		printf("\nInvalid String - Rejected\n");
 }
