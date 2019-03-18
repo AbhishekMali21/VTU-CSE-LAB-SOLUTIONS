@@ -1,12 +1,11 @@
 #include<stdio.h>
-#include<conio.h>
 #include<string.h>
 
 int k=0,z=0,i=0,j=0,c=0;
 char a[16],ac[20],stk[15],act[10];
 void check();
 
-void main()
+int main()
 {
     puts("GRAMMAR is E->E+E \n E->E*E \n E->(E) \n E->id"); puts("enter input string ");
     gets(a);
@@ -33,7 +32,6 @@ void main()
             printf("\n$%s\t%s$\t%ssymbols",stk,a,act); check();
         }
     }
-    getch();
 }
 
 void check()
