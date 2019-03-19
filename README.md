@@ -28,7 +28,7 @@
 |<h3>👉 6th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
 |[SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY](#system-software-and-operating-system-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/README.md)|[LINK]|[PDF]|
-|[COMPUTER GRAPHICS LABORATORY](#computer-graphics-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1uVRXBRb2V6A2NezNIXMq8cbdofyJXsyK/view?usp=sharing)|
+|[COMPUTER GRAPHICS LABORATORY](#computer-graphics-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/16SqFb5DTyygvn4HfOjhoxam5UOQlO4m7/view?usp=sharing)|
   
 |<h3>👉 7th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
