@@ -36,7 +36,6 @@
 |[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/WEB-TECHNOLOGY-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1RlQefpO6-gPQxcovah_VmQGggo4sXfaB/view?usp=sharing)|
 
 
-
 #  📗 📘 📙 2nd SEMESTER 📗 📘 📙
 ## COMPUTER PROGRAMMING LABORATORY
 
