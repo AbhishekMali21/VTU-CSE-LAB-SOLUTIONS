@@ -39,6 +39,7 @@ xsa=scaler.transform(X)
 xs=pd.DataFrame(xsa,columns=X.columns)
 gmm=GaussianMixture(n_components=3)
 gmm.fit(xs)
+
 y_cluster_gmm=gmm.predict(xs)
 plt.subplot(1,3,3)
 plt.scatter(X.Petal_Length,X.Petal_Width,c=colormap[y_cluster_gmm],s=40)
