@@ -42,7 +42,7 @@ int numr(char c)
   return 1;
 }
 
-void main()
+int main()
 {
   char c;
   int i,j,k,n;
