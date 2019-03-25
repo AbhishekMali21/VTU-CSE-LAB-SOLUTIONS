@@ -7,7 +7,8 @@ void check();
 
 int main()
 {
-    puts("GRAMMAR is E->E+E \n E->E*E \n E->(E) \n E->id"); puts("enter input string ");
+    puts("GRAMMAR is E->E+E \n E->E*E \n E->(E) \n E->id");
+    puts("\nEnter input string :");
     gets(a);
     c=strlen(a);
     strcpy(act,"SHIFT->");
@@ -38,7 +39,6 @@ void check()
 {
     strcpy(ac,"REDUCE TO E");
     for(z=0; z<c; z++)
-    {
         if(stk[z]=='i' && stk[z+1]=='d')
         {
             stk[z]='E';
@@ -46,7 +46,8 @@ void check()
             printf("\n$%s\t%s$\t%s",stk,a,ac);
             j++;
         }
-        if(stk[z]=='E' && (stk[z+1]=='+' || stk[z+1]=='*') && stk[z+2]=='E')
+    for(z=0; z<c; z++)
+        if(stk[z]=='E' && stk[z+1]=='+' && stk[z+2]=='E')
         {
             stk[z]='E';
             stk[z+1]='\0';
@@ -54,6 +55,16 @@ void check()
             printf("\n$%s\t%s$\t%s",stk,a,ac);
             i=i-2;
         }
+    for(z=0; z<c; z++)
+        if(stk[z]=='E' && stk[z+1]=='*' && stk[z+2]=='E')
+        {
+            stk[z]='E';
+            stk[z+1]='\0';
+            stk[z+2]='\0';
+            printf("\n$%s\t%s$\t%s",stk,a,ac);
+            i=i-2;
+        }
+    for(z=0; z<c; z++)
         if(stk[z]=='(' && stk[z+1]=='E' && stk[z+2]==')')
         {
             stk[z]='E';
@@ -62,5 +73,4 @@ void check()
             printf("\n$%s\t%s$\t%s",stk,a,ac);
             i=i-2;
         }
-    }
 }
