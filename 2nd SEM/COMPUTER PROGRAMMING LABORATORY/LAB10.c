@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 #include<string.h>
 
 void stringlength(char a[100],char b[100]);
@@ -10,16 +9,13 @@ void main()
 {
 	char p[100],q[100],ch[100];
 	int len1,len2;
-	clrscr();
 	printf("Enter the first string:\n");
 	gets(p);
 	printf("Enter the second string:\n");
 	gets(q);
-
 	stringlength(p,q);
 	stringcompare(p,q);
 	concatenate(p,q);
-	getch();
 }
 
 void stringlength(char a[100], char b[100])
