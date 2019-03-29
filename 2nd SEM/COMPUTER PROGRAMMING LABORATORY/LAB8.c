@@ -1,23 +1,22 @@
 #include<stdio.h>
-#include<conio.h>
 
-main()
+int main()
 {
    int a[20][20],b[20][20],c[20][20];
    int m,n,p,q,i,j,k;
-   clrscr();
-   printf("enter rows and columns of matrix a\n");
+
+   printf("Enter rows and columns of matrix A\n");
    scanf("%d%d",&m,&n);
-   printf("enter rows and columns of matrix b\n");
+   printf("Enter rows and columns of matrix B\n");
    scanf("%d%d",&p,&q);
 
    if(n!=p)
    {
-      printf("matrix multiplication not possible\n");
+      printf("Matrix multiplication not possible\n");
       return 0;
    }
 
-   printf("enter elements of matrix a\n");
+   printf("Enter elements of matrix A\n");
    for(i=0;i<m;i++)
    {
       for(j=0;j<n;j++)
@@ -26,7 +25,7 @@ main()
       }
    }
 
-   printf("enter elements of matrix b\n");
+   printf("Enter elements of matrix B\n");
    for(i=0;i<p;i++)
    {
       for(j=0;j<q;j++)
@@ -47,7 +46,7 @@ main()
       }
    }
 
-   printf("product of two matrices is\n");
+   printf("Product of two matrices is\n");
    for(i=0;i<m;i++)
    {
       for(j=0;j<q;j++)
@@ -55,5 +54,4 @@ main()
 	      printf("%d\n",c[i][j]);
       }
    }
-   getch();
 }
