@@ -1,10 +1,8 @@
 #include<stdio.h>
-#include<conio.h>
 
 void main()
 {
    int a[20],n,i,j,temp;
-   clrscr();
    printf("enter no. of elements\n");
    scanf("%d",&n);
    printf("enter array elements\n");
@@ -31,5 +29,4 @@ void main()
    {
       printf("%d\n",a[i]);
    }
-   getch();
 }
