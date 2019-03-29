@@ -27,7 +27,6 @@ void main()
 {
 	int i, n ;
 	float mean;
-	clrscr();
 	printf("Enter the number of students : ") ;
 	scanf("%d", &n) ;
 	for(i = 0 ; i < n ; i++)
@@ -59,5 +58,4 @@ void main()
 		if( s[i].avg >= mean )
 			display(s[i]);
 	}
-	getch();
 }
