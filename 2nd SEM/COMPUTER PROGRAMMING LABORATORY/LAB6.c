@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 #include<string.h>
 
 void main()
@@ -33,5 +32,4 @@ void main()
 		printf("\nSearch successful and Name found in the list at  position:%d",mid+1);
 	else
 		printf("Name not found and search Unsuccessful....!");
-	getch();
 }
