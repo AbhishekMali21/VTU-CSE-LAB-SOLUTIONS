@@ -1,9 +1,7 @@
 #include<stdio.h>
-#include<conio.h>
-
 int isprime(int n);
 
-main()
+int main()
 {
 	int i,m1,m2;
 	printf("enter range\n");
@@ -14,7 +12,6 @@ main()
 		if(isprime(i))
 			printf("%d\n",i);
 	}
-	getch();
 }
 
 int isprime(int m)
