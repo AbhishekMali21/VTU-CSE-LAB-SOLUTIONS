@@ -3,9 +3,9 @@
 void main()
 {
    int a[20],n,i,j,temp;
-   printf("enter no. of elements\n");
+   printf("Enter no. of elements\n");
    scanf("%d",&n);
-   printf("enter array elements\n");
+   printf("Enter array elements\n");
    for(i=0;i<n;i++)
    {
       scanf("%d",&a[i]);
@@ -24,7 +24,7 @@ void main()
       }
    }
    
-   printf("sorted array is\n");
+   printf("Sorted array is\n");
    for(i=0;i<n;i++)
    {
       printf("%d\n",a[i]);
