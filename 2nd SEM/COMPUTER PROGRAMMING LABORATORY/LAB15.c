@@ -5,11 +5,9 @@ int BinaryToDecimal(long long n);
 int main()
 {
     long long n;
-    clrscr();
     printf("Enter a binary number: ");
     scanf("%lld", &n);
     printf("%lld in binary = %d in decimal", n, BinaryToDecimal(n));
-    getch();
     return 0;
 }
 
