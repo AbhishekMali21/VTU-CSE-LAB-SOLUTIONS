@@ -1,13 +1,12 @@
 #include<stdio.h>
-#include<conio.h>
+#include<stdlib.h>
 #include<math.h>
 
 void main()
 {
 	float a,b,c,disc;
 	float root1,root2,realp,imagp;
-	clrscr();
-	printf("enter values of a,b,c\n");
+	printf("Enter values of a,b,c\n");
 	scanf("%f%f%f",&a,&b,&c);
 
 	if(a==0 && b==0 && c==0)
@@ -45,5 +44,4 @@ void main()
 			printf("root2=%f-i%f\n",realp,imagp);
 		}
 	}
-	getch();
 }
