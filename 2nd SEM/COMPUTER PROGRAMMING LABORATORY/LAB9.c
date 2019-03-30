@@ -1,12 +1,11 @@
 #include<stdio.h>
-#include<conio.h>
+#include<stdlib.h>
 #include<math.h>
 
 void  main()
 {
 	int x,n,i;
 	float rad, res, sum=0;
-	clrscr();
 	printf("Enter degree\n");
 	scanf("%d",&x);
 	printf("Enter number of terms\n");
@@ -21,8 +20,7 @@ void  main()
 		    sum=sum-pow(rad,i)/fact(i);	
 	}
 	printf("Calculate sin(%d) = %f", x,sum);
-	printf("Library sin (%d) = %f",x,sin(rad));
-	getch();
+	printf("\nLibrary sin(%d) = %f", x,sin(rad));
 }
 
 int fact(int m)
