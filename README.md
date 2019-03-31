@@ -9,7 +9,7 @@
 
 |<h3>👉 1st / 2nd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[COMPUTER PROGRAMMING LABORATORY](#computer-programming-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/2nd%20SEM/COMPUTER%20PROGRAMMING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-PROGRAMMING-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1GriUkTVXsjVWQM8oJW9Z4_Jy8fl18B9l/view?usp=sharing)|
+|[COMPUTER PROGRAMMING LABORATORY](#computer-programming-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/2nd%20SEM/COMPUTER%20PROGRAMMING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-PROGRAMMING-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/166YMvZ14vHYSr66Neep4WgL_tT_nOX1T/view?usp=sharing)|
 
 |<h3>👉 3rd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
