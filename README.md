@@ -17,13 +17,13 @@
 
 |<h3>👉 4th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[DESIGN AND ANALYSIS OF ALGORITHM LABORATORY](#design-and-analysis-of-algorithm-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/README.md)|[LINK](https://github.com/AbhishekMali21/DESIGN-AND-ANALYSIS-OF-ALGORITHM-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1rfCwDaMVMZYKlC7GRvNNLFprz_GXyc1n/view?usp=sharing)|
+|[DESIGN AND ANALYSIS OF ALGORITHM LABORATORY](#design-and-analysis-of-algorithm-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/README.md)|[LINK](https://github.com/AbhishekMali21/DESIGN-AND-ANALYSIS-OF-ALGORITHM-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1ptKBIHycFvEahhE9c7Cj7SsSyJRCBQhG/view?usp=sharing)|
 |[MICROPROCESSOR AND MICROCONTROLLER LABORATORY](#microprocessor-and-microcontroller-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/MICROPROCESSOR%20AND%20MICROCONTROLLER%20LABORATORY%20-%20XXCSL48/README.md)|[LINK](https://github.com/AbhishekMali21/MICROPROCESSOR-AND-MICROCONTROLLER-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1-0qmnilLjDgbXEIOrz6EApi0Ii6fo3GS/view?usp=sharing)|
   
 |<h3>👉 5th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[COMPUTER NETWORK LABORATORY](#computer-network-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-NETWORK-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1uVRXBRb2V6A2NezNIXMq8cbdofyJXsyK/view?usp=sharing)|
-|[DBMS LABORATORY](#dbms-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/README.md)|[LINK](https://github.com/AbhishekMali21/DBMS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1KSNIJiUh3XntHEcDulI860bJp1ecyr9V/view?usp=sharing)|
+|[COMPUTER NETWORK LABORATORY](#computer-network-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-NETWORK-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1cNQRRDtUdl7AHQ700LUCSb_1rCaaJWAD/view?usp=sharing)|
+|[DBMS LABORATORY](#dbms-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/README.md)|[LINK](https://github.com/AbhishekMali21/DBMS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/13fSKBMaPhf6JAMcxDj3HKn0jRNFE1sYe/view?usp=sharing)|
   
 |<h3>👉 6th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
