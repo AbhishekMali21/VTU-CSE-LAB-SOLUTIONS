@@ -5,6 +5,8 @@
     <br>ONE STOP FOR CSE/ISE LAB SOLUTIONS OF VTU (SCHEMES INCLUDED ARE +2015 +2017 +2018) 
 </p>
 
+---
+
 # 💻 VTU CSE/ISE LAB SOLUTIONS 💻
 
 |<h3>👉 1st / 2nd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
@@ -37,7 +39,13 @@
 |[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/WEB-TECHNOLOGY-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1RlQefpO6-gPQxcovah_VmQGggo4sXfaB/view?usp=sharing)|
 
 
+---
+
+
 #  📗 📘 📙 1st / 2nd SEMESTER 📗 📘 📙
+
+---
+
 ## COMPUTER PROGRAMMING LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |OUTPUT|
@@ -63,7 +71,12 @@
 
 
 
+---
+
 #  📗 📘 📙 3rd SEMESTER 📗 📘 📙
+
+---
+
 ## DATA STRUCTURES LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
@@ -84,7 +97,12 @@
 |11.|GRAPH(G) OF CITIES|[GRAPH.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/3rd%20SEM/DATA%20STRUCTURES%20LABORATORY/GRAPH.c)|
 |12.|HASH TABLE(HT)|[HASHING.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/3rd%20SEM/DATA%20STRUCTURES%20LABORATORY/HASHING.c)|
 
+---
+
 #  📗 📘 📙 4th SEMESTER 📗 📘 📙
+
+---
+
 ## DESIGN AND ANALYSIS OF ALGORITHM LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |STEPS & OUTPUT|
@@ -107,6 +125,8 @@
 |     11.     |                                       SUBSET OF A SET S                                    				  |[lab11.java](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/lab11.java)                                                                                                                              									    |[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/OUTPUT/OUTPUT11.png)|
 |     12.     |                                       HAMILTONIAN CYCLES                                   				  |[lab12.java](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/lab12.java)                                                                                                                              									    |[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/OUTPUT/OUTPUT12.png)|
 
+
+---
 
 ## MICROPROCESSOR AND MICROCONTROLLER LABORATORY
 
@@ -134,7 +154,12 @@
 |     13.     |                                      ROTATE STEPPER MOTOR - ARM PROCESSOR                                    				  |[LAB13.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/MICROPROCESSOR%20AND%20MICROCONTROLLER%20LABORATORY%20-%20XXCSL48/Lab13.c)                                                                                                                              									    |
 
 
+---
+
 #  📗 📘 📙 5th SEMESTER 📗 📘 📙
+
+---
+
 ## COMPUTER NETWORK LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |                               STEPS & OUTPUT                              |
@@ -155,6 +180,7 @@
 |12.| LEAKY BUCKET ALGORITHM|[LEAKY.JAVA](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/Leaky.java)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/OUTPUT/OUTPUT12.jpg)|
 
 
+---
 
 ## DBMS LABORATORY
 
@@ -166,7 +192,12 @@
 |     04.     |                                        COLLEGE DATABASE                                     				  |[COLLEGE DATABASE.sql](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/4.%20COLLEGE%20DATABASE.sql)                                                                                                                              									    |
 |     05.     |                                        COMPANY DATABASE                                     				  |[COMPANY DATABASE.sql](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/5.%20COMPANY%20DATABASE.sql)                                                                                                                              									    |
 
+---
+
 #  📗 📘 📙 6th SEMESTER 📗 📘 📙
+
+---
+
 ## SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |OUTPUT|
@@ -185,6 +216,8 @@
 |10. A|C - A NUMERICAL CALCULATOR|[LAB10a.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB10a.c)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/OUTPUT/OUTPUT10a.JPG)|
 |10. B|C - PAGE REPLACEMENT TECHNIQUE|[LAB10b.c](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB10b.c)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/OUTPUT/OUTPUT10b.JPG)|
 
+---
+
 ## COMPUTER GRAPHICS LABORATORY
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
@@ -197,6 +230,8 @@
 |07.|TETRAHEDRON TO FORM 3D SIERPINSKI GASKET|[LAB7.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB7.cpp)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/OUTPUT/PROG7.JPG)|
 |08.|ANIMATE A FLAG USING BEZIER CURVE ALGORITHM|[LAB8.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB8.cpp)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/OUTPUT/PROG8.JPG)|
 |09.|FILL THE POLYGON USING SCAN LINE ALGORITHM|[LAB9.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB9.cpp)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/OUTPUT/OUTPUT9.gif)|
+
+---
 
 ## CG ALTERNATIVE SOLUTION
 |   EXP NO   |  EXPERIMENT NAME|EXPERIMENT SOLUTION |OUTPUT|
@@ -212,7 +247,12 @@
 |09.|FILL THE POLYGON USING SCAN LINE ALGORITHM|[PROG9.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/Alternative%20Solution/PROG9.cpp)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/Alternative%20Solution/OUTPUT/OUTPUT9.gif)|
 
 
+---
+
 #  📗 📘 📙 7th SEMESTER 📗 📘 📙
+
+---
+
 ## MACHINE LEARNING LABORATORY
 |   EXP NO   |EXPERIMENT NAME |EXPERIMENT SOLUTION |PYTHON NOOTEBOOK WITH OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|
@@ -227,6 +267,8 @@
 |09.|K-NEAREST NEIGHBOUR ALGORITHM |[LAB9.py](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/9-k-Nearest%20Neighbour%20Algorithm/LAB9.py)|[LAB 9.ipynb](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/9-k-Nearest%20Neighbour%20Algorithm/LAB%209.ipynb)|
 |10.|LOCALLY WEIGHTED REGRESSION ALGORITHM|[LAB10.py](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/10-Locally%20Weighted%20Regression%20Algorithm/LAB10.py)|[LAB 10.ipynb](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/10-Locally%20Weighted%20Regression%20Algorithm/LAB%2010.ipynb)|
 
+
+---
 
 ## WEB TECHNOLOGY LABORATORY
 
