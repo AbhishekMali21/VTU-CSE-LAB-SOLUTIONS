@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-#include<iostream.h>
+#include<iostream>
 #include<GL/glut.h>
 using namespace std;
 
