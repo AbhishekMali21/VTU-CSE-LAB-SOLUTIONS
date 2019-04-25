@@ -1,5 +1,7 @@
-#include<bits/stdc++.h>
-#include<GL\glut.h>
+#include<stdio.h>
+#include<math.h>
+#include<iostream>
+#include<GL/glut.h>
 
 int xstart, ystart, xend, yend;
 void init()
