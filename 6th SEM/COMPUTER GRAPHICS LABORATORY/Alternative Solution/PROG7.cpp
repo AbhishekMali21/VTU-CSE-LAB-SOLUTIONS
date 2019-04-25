@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<stdio.h>
+#include<math.h>
+#include<iostream>
 #include<GL/glut.h>
 using namespace std;
 float v[4][3] = { { 0.0,0.0,1.0 },{ 0,1,-1 },{ -0.8,-0.4,-1 },{ 0.8,-0.4,-1 } };
