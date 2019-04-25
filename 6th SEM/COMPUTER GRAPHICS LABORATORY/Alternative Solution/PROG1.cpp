@@ -20,8 +20,8 @@ void draw_pixel(int x, int y)
 
 void LineBres(int xstart, int ystart, int xend, int yend)
 {
-	int dx = fabs(xend - xstart);
-	int dy = fabs(yend - ystart);
+	int dx = abs(xend - xstart);
+	int dy = abs(yend - ystart);
 	int twody = 2 * dy, twodyminusdx = 2 * (dy - dx);
 	int p = 2 * dy - dx;
 	int x, y;
