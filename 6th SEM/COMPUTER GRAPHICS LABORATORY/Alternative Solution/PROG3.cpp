@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<stdio.h>
+#include<math.h>
+#include<iostream.h>
 #include<GL/glut.h>
 
 float v[][3] = { { -1,-1,-1 } ,{ -1,1,-1 } ,{ 1,1,-1 } ,{ 1,-1,-1 } ,{ -1,-1,1 } ,{ -1,1,1 } ,{ 1,1,1 } ,{ 1,-1,1 } }; // 8 vertices of the cube with origin as its centroid
