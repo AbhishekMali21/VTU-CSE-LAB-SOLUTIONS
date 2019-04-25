@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+#include<stdio.h>
+#include<math.h>
+#include<iostream>
 #include<GL/glut.h>
 int le[500], re[500], flag=0 ,m;
 
