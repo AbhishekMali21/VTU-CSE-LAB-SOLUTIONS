@@ -1,5 +1,7 @@
+#include<stdio.h>
+#include<math.h>
+#include<iostream.h>
 #include<GL/glut.h>
-#include<bits/stdc++.h>
 using namespace std;
 
 float pts[8][3] = {{-1,-1,-1},{-1,1,-1},{1,1,-1},{1,-1,-1},{-1,-1,1},{-1,1,1},{1,1,1},{1,-1,1}};
