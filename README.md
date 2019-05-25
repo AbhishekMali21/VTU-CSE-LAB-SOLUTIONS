@@ -9,17 +9,17 @@
 
 # 💻 VTU CSE/ISE LAB SOLUTIONS 💻
 
-|<h3>👉 1st / 2nd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
+|<h3>👉 1st / 2nd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[COMPUTER PROGRAMMING LABORATORY](#computer-programming-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/2nd%20SEM/COMPUTER%20PROGRAMMING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-PROGRAMMING-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/166YMvZ14vHYSr66Neep4WgL_tT_nOX1T/view?usp=sharing)|
+|[COMPUTER PROGRAMMING LABORATORY](#computer-programming-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/2nd%20SEM/COMPUTER%20PROGRAMMING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-PROGRAMMING-LABORATORY/archive/master.zip)|[BLOG](https://18cpl27.blogspot.com/)|
 
 |<h3>👉 3rd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
 |[DATA STRUCTURES LABORATORY](#data-structures-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/3rd%20SEM/DATA%20STRUCTURES%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/DATA-STRUCTURES-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/16FLhGW-w3gwtoBl3v6Agm4B5Eqztg5uJ/view?usp=sharing)|
 
-|<h3>👉 4th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
+|<h3>👉 4th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[DESIGN AND ANALYSIS OF ALGORITHM LABORATORY](#design-and-analysis-of-algorithm-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/README.md)|[LINK](https://github.com/AbhishekMali21/DESIGN-AND-ANALYSIS-OF-ALGORITHM-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1ptKBIHycFvEahhE9c7Cj7SsSyJRCBQhG/view?usp=sharing)|
+|[DESIGN AND ANALYSIS OF ALGORITHM LABORATORY](#design-and-analysis-of-algorithm-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/README.md)|[LINK](https://github.com/AbhishekMali21/DESIGN-AND-ANALYSIS-OF-ALGORITHM-LABORATORY/archive/master.zip)|[BLOG](https://17csl47.blogspot.com/)|
 |[MICROPROCESSOR AND MICROCONTROLLER LABORATORY](#microprocessor-and-microcontroller-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/MICROPROCESSOR%20AND%20MICROCONTROLLER%20LABORATORY%20-%20XXCSL48/README.md)|[LINK](https://github.com/AbhishekMali21/MICROPROCESSOR-AND-MICROCONTROLLER-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1-0qmnilLjDgbXEIOrz6EApi0Ii6fo3GS/view?usp=sharing)|
   
 |<h3>👉 5th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
@@ -27,11 +27,11 @@
 |[COMPUTER NETWORK LABORATORY](#computer-network-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-NETWORK-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1cNQRRDtUdl7AHQ700LUCSb_1rCaaJWAD/view?usp=sharing)|
 |[DBMS LABORATORY](#dbms-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/README.md)|[LINK](https://github.com/AbhishekMali21/DBMS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/13fSKBMaPhf6JAMcxDj3HKn0jRNFE1sYe/view?usp=sharing)|
   
-|<h3>👉 6th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
+|<h3>👉 6th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY](#system-software-and-operating-system-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/SYSTEM-SOFTWARE-AND-OPERATING-SYSTEM-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/1kF27NoYu52YkmpzNcAojLQ676RpFyCve/view?usp=sharing)|
-|[COMPUTER GRAPHICS LABORATORY](#computer-graphics-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/16SqFb5DTyygvn4HfOjhoxam5UOQlO4m7/view?usp=sharing)|
-|[CG ALTERNATIVE SOLUTION](#cg-alternative-solution)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY-ALTERNATIVE-SOLUTIONS/archive/master.zip)|[PDF](https://drive.google.com/file/d/1QA0lHxtUeX4LpCgyC6gES-PGgqwOLaEw/view?usp=sharing)|
+|[SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY](#system-software-and-operating-system-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/SYSTEM-SOFTWARE-AND-OPERATING-SYSTEM-LABORATORY/archive/master.zip)|[BLOG](https://15csl67.blogspot.com/)|
+|[COMPUTER GRAPHICS LABORATORY](#computer-graphics-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY/archive/master.zip)||
+|[CG ALTERNATIVE SOLUTION](#cg-alternative-solution)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY-ALTERNATIVE-SOLUTIONS/archive/master.zip)|[BLOG](https://15csl68.blogspot.com/)|
   
 |<h3>👉 7th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|DOWNLOAD PDF|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
