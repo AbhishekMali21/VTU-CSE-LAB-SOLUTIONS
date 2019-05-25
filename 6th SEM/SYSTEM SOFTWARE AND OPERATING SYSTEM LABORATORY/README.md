@@ -33,3 +33,7 @@ A = T3<br>
 10 - a). Design, develop and implement a C/C++/Java program to simulate a numerical calculator.
 
 10 - b). Design, develop and implement a C/C++/Java program to simulate page replacement technique.
+
+11 - Program to recognize whether a given sentence is simple or compound.
+
+12 - Write a C++ program to emulate the Unix ln command
