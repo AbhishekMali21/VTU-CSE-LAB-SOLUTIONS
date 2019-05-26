@@ -48,6 +48,8 @@
 
 ## COMPUTER PROGRAMMING LABORATORY
 
+To view blog click [here](https://18cpl27.blogspot.com){:target="_blank" rel="noopener"}
+
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
 |01.|FAMILIARIZATION WITH COMPUTER HARDWARE & <br> PROGRAMMING ENVIRONMENT|[LAB1.txt](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/2nd%20SEM/COMPUTER%20PROGRAMMING%20LABORATORY/LAB1.txt)||
