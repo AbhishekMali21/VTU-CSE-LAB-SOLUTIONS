@@ -204,6 +204,8 @@ To view blog ctrl + click [https://17csl47.blogspot.com/](https://17csl47.blogsp
 
 ## SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY
 
+To view blog ctrl + click[https://15csl67.blogspot.com/](https://15csl67.blogspot.com/)
+
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|
 |     01. A    |                                      LEX - RECOGNIZE VALID ARITHMETIC EXPRESSION                                     				  |[LAB1.l](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/LAB1.l)                                                                                                                              									    |[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/OUTPUT/OUTPUT1a.JPG)|
