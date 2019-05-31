@@ -227,6 +227,9 @@ To view blog ctrl + click[https://15csl67.blogspot.com/](https://15csl67.blogspo
 ---
 
 ## COMPUTER GRAPHICS LABORATORY
+
+To view blog ctrl + click [https://15csl68.blogspot.com/](https://15csl68.blogspot.com/)
+
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
 |     01.     |                                        BRESENHAM’S LINE DRAWING ALGORITHM FOR ALL TYPES OF SLOPE                                     				  |[LAB1.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/LAB1.cpp)                                                                                                                              									    |[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/OUTPUT/PROG1.JPG)|
@@ -242,6 +245,9 @@ To view blog ctrl + click[https://15csl67.blogspot.com/](https://15csl67.blogspo
 ---
 
 ## CG ALTERNATIVE SOLUTION
+
+To view blog ctrl + click [https://15csl68.blogspot.com/](https://15csl68.blogspot.com/)
+
 |   EXP NO   |  EXPERIMENT NAME|EXPERIMENT SOLUTION |OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
 |01.|BRESENHAM’S LINE DRAWING ALGORITHM FOR ALL TYPES OF SLOPE|[PROG1.cpp](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/Alternative%20Solution/PROG1.cpp)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/Alternative%20Solution/OUTPUT/OUTPUT1.JPG)|
