@@ -35,8 +35,8 @@
   
 |<h3>👉 7th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/MACHINE-LEARNING-LABORATORY/archive/master.zip)|[BLOG]|
-|[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/WEB-TECHNOLOGY-LABORATORY/archive/master.zip)|[BLOG]|
+|[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/MACHINE-LEARNING-LABORATORY/archive/master.zip)|[BLOG](https://15csl76.blogspot.com/)|
+|[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/WEB-TECHNOLOGY-LABORATORY/archive/master.zip)|[BLOG](https://15csl77.blogspot.com/)|
 
 
 ---
@@ -268,6 +268,9 @@
 ---
 
 ## MACHINE LEARNING LABORATORY
+
+```To view blog ctrl + click``` [https://15csl76.blogspot.com](https://15csl76.blogspot.com)
+
 |   EXP NO   |EXPERIMENT NAME |EXPERIMENT SOLUTION |PYTHON NOOTEBOOK WITH OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|
 |01.| FIND-S ALGORITHM|[LAB1.py](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/1-Find-S%20Algorithm/LAB1.py)<br>[trainingdata.csv](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/1-Find-S%20Algorithm/trainingdata.csv)|[LAB 1.ipynb](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/1-Find-S%20Algorithm/LAB%201.ipynb)|
@@ -285,6 +288,8 @@
 ---
 
 ## WEB TECHNOLOGY LABORATORY
+
+```To view blog ctrl + click``` [https://15csl77.blogspot.com](https://15csl77.blogspot.com)
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    | OUTPUT |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
