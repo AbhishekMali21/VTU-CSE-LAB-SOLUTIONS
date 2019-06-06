@@ -29,9 +29,9 @@
   
 |<h3>👉 6th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY](#system-software-and-operating-system-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/SYSTEM-SOFTWARE-AND-OPERATING-SYSTEM-LABORATORY/archive/master.zip)|[BLOG](https://15csl67.blogspot.com/)|
+|[SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY](#system-software-and-operating-system-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/SYSTEM%20SOFTWARE%20AND%20OPERATING%20SYSTEM%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/SYSTEM-SOFTWARE-AND-OPERATING-SYSTEM-LABORATORY/archive/master.zip)|[BLOG](https://bit.ly/vtusslab)|
 |[COMPUTER GRAPHICS LABORATORY](#computer-graphics-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY/archive/master.zip)||
-|[CG ALTERNATIVE SOLUTION](#cg-alternative-solution)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY-ALTERNATIVE-SOLUTIONS/archive/master.zip)|[BLOG](https://15csl68.blogspot.com/)|
+|[CG ALTERNATIVE SOLUTION](#cg-alternative-solution)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/6th%20SEM/COMPUTER%20GRAPHICS%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-GRAPHICS-LABORATORY-ALTERNATIVE-SOLUTIONS/archive/master.zip)|[BLOG](https://bit.ly/vtucgvlab)|
   
 |<h3>👉 7th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
@@ -204,7 +204,7 @@
 
 ## SYSTEM SOFTWARE AND OPERATING SYSTEM LABORATORY
 
-```To view blog ctrl + click``` [https://15csl67.blogspot.com/](https://15csl67.blogspot.com/)
+```To view blog ctrl + click``` [https://bit.ly/vtusslab](https://bit.ly/vtusslab)
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|
@@ -228,7 +228,7 @@
 
 ## COMPUTER GRAPHICS LABORATORY
 
-```To view blog ctrl + click``` [https://15csl68.blogspot.com/](https://15csl68.blogspot.com/)
+```To view blog ctrl + click``` [https://bit.ly/vtucgvlab](https://bit.ly/vtucgvlab)
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
@@ -246,7 +246,7 @@
 
 ## CG ALTERNATIVE SOLUTION
 
-```To view blog ctrl + click``` [https://15csl68.blogspot.com/](https://15csl68.blogspot.com/)
+```To view blog ctrl + click``` [https://bit.ly/vtucgvlab](https://bit.ly/vtucgvlab)
 
 |   EXP NO   |  EXPERIMENT NAME|EXPERIMENT SOLUTION |OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
