@@ -35,7 +35,7 @@
   
 |<h3>👉 7th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/MACHINE-LEARNING-LABORATORY/archive/master.zip)|[BLOG]|
+|[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/MACHINE-LEARNING-LABORATORY/archive/master.zip)|[BLOG](http://bit.ly/vtumllab)|
 |[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/WEB-TECHNOLOGY-LABORATORY/archive/master.zip)|[BLOG](http://bit.ly/vtuwtlab)|
 
 
@@ -275,7 +275,7 @@
 
 ## MACHINE LEARNING LABORATORY
 
-```To view blog ctrl + click``` 
+```To view blog ctrl + click``` [http://bit.ly/vtumllab](http://bit.ly/vtumllab)
 
 |   EXP NO   |EXPERIMENT NAME |EXPERIMENT SOLUTION |PYTHON NOOTEBOOK WITH OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|
