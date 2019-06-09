@@ -15,17 +15,17 @@
 
 |<h3>👉 3rd SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[DATA STRUCTURES LABORATORY](#data-structures-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/3rd%20SEM/DATA%20STRUCTURES%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/DATA-STRUCTURES-LABORATORY/archive/master.zip)|[BLOG]|
+|[DATA STRUCTURES LABORATORY](#data-structures-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/3rd%20SEM/DATA%20STRUCTURES%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/DATA-STRUCTURES-LABORATORY/archive/master.zip)|[BLOG](http://bit.ly/vtudslab)|
 
 |<h3>👉 4th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[DESIGN AND ANALYSIS OF ALGORITHM LABORATORY](#design-and-analysis-of-algorithm-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/README.md)|[LINK](https://github.com/AbhishekMali21/DESIGN-AND-ANALYSIS-OF-ALGORITHM-LABORATORY/archive/master.zip)|[BLOG](https://17csl47.blogspot.com/)|
+|[DESIGN AND ANALYSIS OF ALGORITHM LABORATORY](#design-and-analysis-of-algorithm-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHM%20LABORATORY%20-%20XXCSL47/README.md)|[LINK](https://github.com/AbhishekMali21/DESIGN-AND-ANALYSIS-OF-ALGORITHM-LABORATORY/archive/master.zip)|[BLOG](http://bit.ly/vtudaalab)|
 |[MICROPROCESSOR AND MICROCONTROLLER LABORATORY](#microprocessor-and-microcontroller-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/4th%20SEM/MICROPROCESSOR%20AND%20MICROCONTROLLER%20LABORATORY%20-%20XXCSL48/README.md)|[LINK](https://github.com/AbhishekMali21/MICROPROCESSOR-AND-MICROCONTROLLER-LABORATORY/archive/master.zip)|[BLOG]|
   
 |<h3>👉 5th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[COMPUTER NETWORK LABORATORY](#computer-network-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-NETWORK-LABORATORY/archive/master.zip)|[BLOG]|
-|[DBMS LABORATORY](#dbms-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/README.md)|[LINK](https://github.com/AbhishekMali21/DBMS-LABORATORY/archive/master.zip)|[PDF](https://drive.google.com/file/d/13fSKBMaPhf6JAMcxDj3HKn0jRNFE1sYe/view?usp=sharing)|
+|[COMPUTER NETWORK LABORATORY](#computer-network-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/README.md)|[LINK](https://github.com/AbhishekMali21/COMPUTER-NETWORK-LABORATORY/archive/master.zip)|[BLOG](https://bit.ly/vtucntlab)|
+|[DBMS LABORATORY](#dbms-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/DBMS%20LABORATORY%20-%20XXCSL58/README.md)|[LINK](https://github.com/AbhishekMali21/DBMS-LABORATORY/archive/master.zip)|[BLOG](https://bit.ly/vtudbmslab)|
   
 |<h3>👉 6th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
@@ -35,8 +35,8 @@
   
 |<h3>👉 7th SEM<h3>|SYLLABUS|DOWNLOAD CODE FILES|VIEW BLOG|
 |:----------------------:|:----------------------:|:----------------------:|:----------------------:|
-|[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/MACHINE-LEARNING-LABORATORY/archive/master.zip)|[BLOG](https://15csl76.blogspot.com/)|
-|[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/WEB-TECHNOLOGY-LABORATORY/archive/master.zip)|[BLOG](https://15csl77.blogspot.com/)|
+|[MACHINE LEARNING LABORATORY](#machine-learning-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/MACHINE%20LEARNING%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/MACHINE-LEARNING-LABORATORY/archive/master.zip)|[BLOG]|
+|[WEB TECHNOLOGY LABORATORY](#web-technology-laboratory)|[SYLLABUS](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/7th%20SEM/WEB%20TECHNOLOGY%20LABORATORY/README.md)|[LINK](https://github.com/AbhishekMali21/WEB-TECHNOLOGY-LABORATORY/archive/master.zip)|[BLOG](http://bit.ly/vtuwtlab)|
 
 
 ---
@@ -81,6 +81,8 @@
 
 ## DATA STRUCTURES LABORATORY
 
+```To view blog ctrl + click``` [http://bit.ly/vtudslab](http://bit.ly/vtudslab)
+
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 ||<b>PART - A</b>||
@@ -107,7 +109,7 @@
 
 ## DESIGN AND ANALYSIS OF ALGORITHM LABORATORY
 
-```To view blog ctrl + click``` [https://17csl47.blogspot.com/](https://17csl47.blogspot.com/)
+```To view blog ctrl + click``` [http://bit.ly/vtudaalab](http://bit.ly/vtudaalab)
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |STEPS & OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
@@ -166,6 +168,8 @@
 
 ## COMPUTER NETWORK LABORATORY
 
+```To view blog ctrl + click``` [https://bit.ly/vtucntlab](https://bit.ly/vtucntlab)
+
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |                               STEPS & OUTPUT                              |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 ||<b>PART - A</b>||
@@ -187,6 +191,8 @@
 ---
 
 ## DBMS LABORATORY
+
+```To view blog ctrl + click``` [https://bit.ly/vtudbmslab](https://bit.ly/vtudbmslab)
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -269,7 +275,7 @@
 
 ## MACHINE LEARNING LABORATORY
 
-```To view blog ctrl + click``` [https://15csl76.blogspot.com](https://15csl76.blogspot.com)
+```To view blog ctrl + click``` 
 
 |   EXP NO   |EXPERIMENT NAME |EXPERIMENT SOLUTION |PYTHON NOOTEBOOK WITH OUTPUT|
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|
@@ -289,7 +295,7 @@
 
 ## WEB TECHNOLOGY LABORATORY
 
-```To view blog ctrl + click``` [https://15csl77.blogspot.com](https://15csl77.blogspot.com)
+```To view blog ctrl + click``` [http://bit.ly/vtuwtlab](http://bit.ly/vtuwtlab)
 
 |   EXP NO   |                                                EXPERIMENT NAME                                              				  |                                                                                           EXPERIMENT SOLUTION                                                                                                                              									    | OUTPUT |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
