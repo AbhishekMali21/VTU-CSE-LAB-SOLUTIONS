@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/AbhishekMali21">
+    <a href="https://vtucselabs.blogspot.com/">
         <img height=105 src="https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/VTU.JPG">
     </a>
     <br>ONE STOP FOR CSE/ISE LAB SOLUTIONS OF VTU (SCHEMES INCLUDED ARE +2015 +2017 +2018) 
