@@ -1,0 +1,202 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# MACHINE LEARNING LAB - 7 ( Bayesian Network )"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "***7. Write a program to construct a Bayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set. You can use Java/Python ML library classes/API.***"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import bayespy as bp\n",
+    "import numpy as np\n",
+    "import csv \n",
+    "from colorama import init\n",
+    "from colorama import Fore, Back, Style\n",
+    "init()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Define Parameter Enum values\n",
+    "#Age\n",
+    "ageEnum = {'SuperSeniorCitizen':0, 'SeniorCitizen':1, 'MiddleAged':2, 'Youth':3, 'Teen':4}\n",
+    "# Gender\n",
+    "genderEnum = {'Male':0, 'Female':1}\n",
+    "# FamilyHistory\n",
+    "familyHistoryEnum = {'Yes':0, 'No':1}\n",
+    "# Diet(Calorie Intake)\n",
+    "dietEnum = {'High':0, 'Medium':1, 'Low':2}\n",
+    "# LifeStyle\n",
+    "lifeStyleEnum = {'Athlete':0, 'Active':1, 'Moderate':2, 'Sedetary':3}\t\n",
+    "# Cholesterol\n",
+    "cholesterolEnum = {'High':0, 'BorderLine':1, 'Normal':2}\n",
+    "# HeartDisease\n",
+    "heartDiseaseEnum = {'Yes':0, 'No':1}\n",
+    "#heart_disease_data.csv"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "with open('heart_disease_data.csv') as csvfile:\n",
+    "    lines = csv.reader(csvfile)\n",
+    "    dataset = list(lines)\n",
+    "    data = []\n",
+    "    for x in dataset:\t\n",
+    "        data.append([ageEnum[x[0]],genderEnum[x[1]],familyHistoryEnum[x[2]],dietEnum[x[3]],lifeStyleEnum[x[4]],cholesterolEnum[x[5]],heartDiseaseEnum[x[6]]])\n",
+    "# Training data for machine learning todo: should import from csv\n",
+    "data = np.array(data)\n",
+    "N = len(data)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "C:\\Anaconda3\\lib\\site-packages\\bayespy\\inference\\vmp\\nodes\\categorical.py:107: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.\n",
+      "  u0[[np.arange(np.size(x)), np.ravel(x)]] = 1\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Input data column assignment\n",
+    "p_age = bp.nodes.Dirichlet(1.0*np.ones(5))\n",
+    "age = bp.nodes.Categorical(p_age, plates=(N,))\n",
+    "age.observe(data[:,0])\n",
+    "\n",
+    "p_gender = bp.nodes.Dirichlet(1.0*np.ones(2))\n",
+    "gender = bp.nodes.Categorical(p_gender, plates=(N,))\n",
+    "gender.observe(data[:,1])\n",
+    "\n",
+    "p_familyhistory = bp.nodes.Dirichlet(1.0*np.ones(2))\n",
+    "familyhistory = bp.nodes.Categorical(p_familyhistory, plates=(N,))\n",
+    "familyhistory.observe(data[:,2])\n",
+    "\n",
+    "p_diet = bp.nodes.Dirichlet(1.0*np.ones(3))\n",
+    "diet = bp.nodes.Categorical(p_diet, plates=(N,))\n",
+    "diet.observe(data[:,3])\n",
+    "\n",
+    "p_lifestyle = bp.nodes.Dirichlet(1.0*np.ones(4))\n",
+    "lifestyle = bp.nodes.Categorical(p_lifestyle, plates=(N,))\n",
+    "lifestyle.observe(data[:,4])\n",
+    "\n",
+    "p_cholesterol = bp.nodes.Dirichlet(1.0*np.ones(3))\n",
+    "cholesterol = bp.nodes.Categorical(p_cholesterol, plates=(N,))\n",
+    "cholesterol.observe(data[:,5])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Prepare nodes and establish edges\n",
+    "# np.ones(2) ->  HeartDisease has 2 options Yes/No\n",
+    "# plates(5, 2, 2, 3, 4, 3)  ->  corresponds to options present for domain values \n",
+    "p_heartdisease = bp.nodes.Dirichlet(np.ones(2), plates=(5, 2, 2, 3, 4, 3))\n",
+    "heartdisease = bp.nodes.MultiMixture([age, gender, familyhistory, diet, lifestyle, cholesterol], bp.nodes.Categorical, p_heartdisease)\n",
+    "heartdisease.observe(data[:,6])\n",
+    "p_heartdisease.update()\n",
+    "\n",
+    "# Sample Test with hardcoded values\n",
+    "#print(\"Sample Probability\")\n",
+    "#print(\"Probability(HeartDisease|Age=SuperSeniorCitizen, Gender=Female, FamilyHistory=Yes, DietIntake=Medium, LifeStyle=Sedetary, Cholesterol=High)\")\n",
+    "#print(bp.nodes.MultiMixture([ageEnum['SuperSeniorCitizen'], genderEnum['Female'], familyHistoryEnum['Yes'], dietEnum['Medium'], lifeStyleEnum['Sedetary'], cholesterolEnum['High']], bp.nodes.Categorical, p_heartdisease).get_moments()[0][heartDiseaseEnum['Yes']])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "\n",
+      "\n",
+      "Enter Age: {'SuperSeniorCitizen': 0, 'SeniorCitizen': 1, 'MiddleAged': 2, 'Youth': 3, 'Teen': 4}1\n",
+      "Enter Gender: {'Male': 0, 'Female': 1}0\n",
+      "Enter FamilyHistory: {'Yes': 0, 'No': 1}0\n",
+      "Enter dietEnum: {'High': 0, 'Medium': 1, 'Low': 2}2\n",
+      "Enter LifeStyle: {'Athlete': 0, 'Active': 1, 'Moderate': 2, 'Sedetary': 3}2\n",
+      "Enter Cholesterol: {'High': 0, 'BorderLine': 1, 'Normal': 2}1\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "C:\\Anaconda3\\lib\\site-packages\\bayespy\\inference\\vmp\\nodes\\categorical.py:43: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.\n",
+      "  u0[[np.arange(np.size(x)), np.ravel(x)]] = 1\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Probability(HeartDisease) = 0.5\n",
+      "Enter for Continue:0, Exit :1  1\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Interactive Test \n",
+    "m = 0\n",
+    "while m == 0:\n",
+    "    print(\"\\n\")\n",
+    "    res = bp.nodes.MultiMixture([int(input('Enter Age: ' + str(ageEnum))), int(input('Enter Gender: ' + str(genderEnum))), int(input('Enter FamilyHistory: ' + str(familyHistoryEnum))), int(input('Enter dietEnum: ' + str(dietEnum))), int(input('Enter LifeStyle: ' + str(lifeStyleEnum))), int(input('Enter Cholesterol: ' + str(cholesterolEnum)))], bp.nodes.Categorical, p_heartdisease).get_moments()[0][heartDiseaseEnum['Yes']]\n",
+    "    print(\"Probability(HeartDisease) = \" +  str(res))\n",
+    "    #print(Style.RESET_ALL)\n",
+    "    m = int(input(\"Enter for Continue:0, Exit :1  \"))"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
