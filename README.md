@@ -3,6 +3,25 @@
         <img height=105 src="https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/VTU.JPG">
     </a>
     <br>ONE STOP FOR CSE/ISE LAB SOLUTIONS OF VTU (SCHEMES INCLUDED ARE +2015 +2017 +2018) 
+    
+[![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
+[![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?style=social)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?style=social)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?style=social)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/watchers)
+
+![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?logoColor=9cf&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?logoColor=important&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?style=flat-square)
+
+[![GitHub issues](https://img.shields.io/github/issues/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?style=flat-square)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?style=flat-square)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/pulls?q=is%3Apr+is%3Aclosed)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS.svg)](http://hits.dwyl.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS)
+
 </p>
 
 ---
@@ -185,7 +204,7 @@
 |09.| SERVER PROGRAM USING TCP <br>  CLIENT PROGRAM USING TCP <br> FILE TO DISPLAY|[SERVER.JAVA](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/Server.java) <br> [CLIENT.JAVA](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/Client.java) <br> [FILE.TXT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/file.txt)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/OUTPUT/OUTPUT9.jpg)|
 |10.|	 SERVER PROGRAM USING UDP <br> 	 CLIENT PROGRAM USING UDP|[UDPServer.java](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/UDPServer.java) <br> [UDPClient.java](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/UDPClient.java)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/OUTPUT/OUTPUT10.jpg)|
 |11.|	 RSA ALGORITHM|[RSA.java](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/RSA.java)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/OUTPUT/OUTPUT11.jpg)|
-|12.| LEAKY BUCKET ALGORITHM|[LEAKY.JAVA](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/Leaky.java)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/OUTPUT/OUTPUT12.jpg)|
+|12.| LEAKY BUCKET ALGORITHM|[LEAKY.java](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/Leaky.java)|[OUTPUT](https://github.com/AbhishekMali21/VTU-CSE-LAB-SOLUTIONS/blob/master/5th%20SEM/COMPUTER%20NETWORK%20LABORATORY%20-%20XXCSL57/OUTPUT/OUTPUT12.jpg)|
 
 
 ---
